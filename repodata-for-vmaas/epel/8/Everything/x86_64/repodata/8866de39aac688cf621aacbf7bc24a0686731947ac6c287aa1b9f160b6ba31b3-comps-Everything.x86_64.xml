@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps
+  PUBLIC '-//Red Hat, Inc.//DTD Comps info//EN'
+  'comps.dtd'>
+<comps>
+  <group>
+    <id>critical-path-kde</id>
+    <name>Critical Path (KDE)</name>
+    <name xml:lang="ar">مسار حرج (KDE)</name>
+    <name xml:lang="as">মাৰাত্মক পথ (KDE)</name>
+    <name xml:lang="ast">Critical Path (KDE)</name>
+    <name xml:lang="bg">Критичен Път (KDE)</name>
+    <name xml:lang="bn">Critical Path (KDE)</name>
+    <name xml:lang="bn_IN">Critical Path (KDE)</name>
+    <name xml:lang="ca">Camí crític (KDE)</name>
+    <name xml:lang="cs">Kritická sada (KDE)</name>
+    <name xml:lang="da">Kritisk sti (KDE)</name>
+    <name xml:lang="de">Kritischer Pfad (KDE)</name>
+    <name xml:lang="el">Critical Path (KDE)</name>
+    <name xml:lang="en_GB">Critical Path (KDE)</name>
+    <name xml:lang="es">Camino Crítico (KDE)</name>
+    <name xml:lang="et">Kõige tähtsamad funktsioonid (KDE)</name>
+    <name xml:lang="fa">مسیر حیاتی(KDE)</name>
+    <name xml:lang="fi">Kriittinen polku (KDE)</name>
+    <name xml:lang="fr">Critical Path (KDE)</name>
+    <name xml:lang="fur">Percors critic (KDE)</name>
+    <name xml:lang="gu">કઠિન પાથ (KDE)</name>
+    <name xml:lang="he">Critical Path (KDE)</name>
+    <name xml:lang="hi">गंभीर पथ (केडीई)</name>
+    <name xml:lang="hu">Kritikus útvonal (KDE)</name>
+    <name xml:lang="ia">Cammino Critic (KDE)</name>
+    <name xml:lang="id">Jalur Kritis (KDE)</name>
+    <name xml:lang="it">Critical Path (KDE)</name>
+    <name xml:lang="ja">Critical Path (KDE)</name>
+    <name xml:lang="kn">ಕ್ರಿಟಿಕಲ್ ಪಾತ್ (KDE)</name>
+    <name xml:lang="ko">Critical Path (KDE)</name>
+    <name xml:lang="lv">Critical Path (KDE)</name>
+    <name xml:lang="mr">क्रिटिकल पाथ (KDE)</name>
+    <name xml:lang="nb">Critical Path (KDE)</name>
+    <name xml:lang="nl">Kritieke pad (KDE)</name>
+    <name xml:lang="or">ଜଟିଳ ପଥ (KDE)</name>
+    <name xml:lang="pa">ਨਾਜ਼ੁਕ ਮਾਰਗ (ਕੇਡੀਈ)</name>
+    <name xml:lang="pl">Funkcjonalność krytyczna (KDE)</name>
+    <name xml:lang="pt">Caminho Crítico (KDE)</name>
+    <name xml:lang="pt_BR">Critical Path (KDE)</name>
+    <name xml:lang="ru">Критический путь (KDE)</name>
+    <name xml:lang="sk">Kritická cesta (KDE)</name>
+    <name xml:lang="sr">Критична путања (KDE)</name>
+    <name xml:lang="sr@Latn">Kritična putanja (KDE)</name>
+    <name xml:lang="sr@latin">Kritična putanja (KDE)</name>
+    <name xml:lang="sv">Kritisk linje (KDE)</name>
+    <name xml:lang="ta">நெருகடியான பாதை (KDE)</name>
+    <name xml:lang="te">సంక్లిష్ట పాత్ (KDE)</name>
+    <name xml:lang="tg">Роҳчаи танқидӣ (KDE)</name>
+    <name xml:lang="tr">Kritik Yol (KDE)</name>
+    <name xml:lang="uk">Critical Path (KDE)</name>
+    <name xml:lang="zh_CN">关键路径（KDE）</name>
+    <name xml:lang="zh_TW">關鍵路徑 (KDE)</name>
+    <description>A set of packages that provide the Critical Path functionality for the KDE desktop</description>
+    <description xml:lang="ar">مجموعة من الحزم التي توفر وظائف المسار الحرج لسطح مكتب KDE</description>
+    <description xml:lang="as">পেকেইজসমূহৰ সংহতি যোনে KDE ডেস্কটপৰ বাবে মাৰাত্মক পথ কাৰ্যকৰীতাৰ যোগান দিয়ে</description>
+    <description xml:lang="ast">Un conxuntu de paquetes p'apurrir la funcionalidá de Critical Path pa el escritoriu KDE</description>
+    <description xml:lang="bg">Комплект от пакети, осигуряващи функционалността Critical Path за работната среда KDE</description>
+    <description xml:lang="bn">KDE ডেস্কটপের ক্ষেত্রে Critical Path-র বৈশিষ্ট্য উপলব্ধকারী প্যাকেজের সংকলন।</description>
+    <description xml:lang="bn_IN">KDE ডেস্কটপের ক্ষেত্রে Critical Path-র বৈশিষ্ট্য উপলব্ধকারী প্যাকেজের সংকলন।</description>
+    <description xml:lang="ca">Un conjunt de paquets que proporcionen la funcionalitat del camí crític per a l'escriptori KDE</description>
+    <description xml:lang="cs">Sada balíčků kritické funkčnosti pro prostředí pracovní plochy KDE.</description>
+    <description xml:lang="da">Et sæt af pakker som udbyder funktionaliteten Kritisk sti til KDE-skrivebordet</description>
+    <description xml:lang="de">Eine Sammlung von Paketen, welche die Funktionalität des kritischen Pfades für die KDE-Arbeitsumgebung bereitstellt.</description>
+    <description xml:lang="el">Ένα σύνολο πακέτων που παρέχει τo Critical Path λειτουργειάς για το KDE</description>
+    <description xml:lang="en_GB">A set of packages that provide the Critical Path functionality for the KDE desktop</description>
+    <description xml:lang="es">Un conjunto de paquetes para proveer la funcionalidad de Camino Crítico para el escritorio KDE</description>
+    <description xml:lang="et">Kõige tähtsamate rakenduste kogu KDE töölauale</description>
+    <description xml:lang="fa">مجموعه‌ای از بسته‌ها که عملیات مسیر حیاتی برای میزکار KDE را فراهم می‌کنند </description>
+    <description xml:lang="fi">Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden KDE-työpöytäympäristössä</description>
+    <description xml:lang="fr">Un ensemble de paquets qui apporte la fonctionnalité Critical Path pour le bureau GNOME</description>
+    <description xml:lang="fur">Un complès di pachets che a furnissin la funzionalitât Percors Critic pal scritori KDE</description>
+    <description xml:lang="gu">પેકેજોનો સમૂહ કે જે KDE ડેસ્કટોપ માટે કઠીન પાથ કાર્યક્ષમતાને પૂરુ પાડે છે</description>
+    <description xml:lang="he">קבוצת חבילות שמספקות פלטפורמה משותפת לפונקציונליות Critical Path עבור שולחן העבודה KDE</description>
+    <description xml:lang="hi">संकुलों का सेट जो केडीई डेस्कटॉप के लिए गंभीर पथ कार्यशीलता देता है</description>
+    <description xml:lang="hu">Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást biztosítják a KDE asztali környezethez</description>
+    <description xml:lang="ia">Un insimul de pacchettos que provide le functionalitate de Cammino Critic pro le scriptorio KDE</description>
+    <description xml:lang="it">Un insieme di pacchetti che forniscono le funzionalità Critical Path per il desktop KDE</description>
+    <description xml:lang="ja">KDE デスクトップ用に Critical Path 機能を提供するパッケージセットです。</description>
+    <description xml:lang="kn">KDE  ಗಣಕತೆರೆಗೆ ಕ್ರಿಟಿಕಲ್ ಪಾತ್ ಸವಲತ್ತನ್ನು ಒದಗಿಸುವ ಪ್ಯಾಕೇಜುಗಳ ಸಂಗ್ರಹ</description>
+    <description xml:lang="ko">KDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음</description>
+    <description xml:lang="lv">Pakotnes, kas nodrošina Critical Path funkcionalitāti KDE  darbvirsmai</description>
+    <description xml:lang="mr">संकुलांचा संच जे KDE डेस्कटॉपकरीता क्रिटिकल पाथ कार्यात्मकता पुरवते</description>
+    <description xml:lang="nb">Et sett med pakker som gir essensiell funksjonalitet for KDE-skrivebordet</description>
+    <description xml:lang="nl">Een aantal pakketten die de kritieke pad functionaliteit aanbieden voor het KDE bureaublad</description>
+    <description xml:lang="or">ପ୍ୟାକେଜମାନଙ୍କର ଗୋଟିଏ ସେଟ ଯାହାକି KDE ଡେସ୍କଟପ ପାଇଁ ଜଟିଳ ପଥ କାର୍ଯ୍ୟକ୍ରମ ପ୍ରଦାନ କରିଥାଏ</description>
+    <description xml:lang="pa">ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ KDE ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ</description>
+    <description xml:lang="pl">Zestaw pakietów dostarczających funkcjonalność krytyczną dla środowiska KDE</description>
+    <description xml:lang="pt">Um conjunto de pacotes que disponibilizam a funcionalidade de &quot;Caminho Crítico&quot; para o ambiente de trabalho KDE</description>
+    <description xml:lang="pt_BR">Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para o ambiente de trabalho KDE</description>
+    <description xml:lang="ru">Набор пакетов, составляющих критический путь для KDE</description>
+    <description xml:lang="sk">Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie KDE</description>
+    <description xml:lang="sr">Скуп пакета који пружа функционалност критичне путање за KDE окружење</description>
+    <description xml:lang="sr@Latn">Skup paketa koji pruža funkcionalnost kritične putanje za KDE okruženje</description>
+    <description xml:lang="sr@latin">Skup paketa koji pruža funkcionalnost kritične putanje za KDE okruženje</description>
+    <description xml:lang="sv">Ett antal paket som ger den kritiska linjens funktionalitet för KDE-skrivbordet</description>
+    <description xml:lang="ta">KDE பணிமேடையில் அவசியமான பாதை செயல்பாடுகளுக்கு ஒரு தொகுப்புகளின் அமைவை வழங்குகிறது</description>
+    <description xml:lang="te">KDE డెస్కుటాప్ కొరకు సంక్లిష్ట పాత్ పనితీరును అందించే ప్యాకేజీల సమితి</description>
+    <description xml:lang="tg">Дастабанде, ки роҳи қатъиро барои мизи кории KDE эҷод мекунанд </description>
+    <description xml:lang="tr">KDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı</description>
+    <description xml:lang="uk">Набір пакунків, що надають функціональність Critical Path для середовища KDE</description>
+    <description xml:lang="zh_CN">一组为 KDE 桌面提供关键路径功能的软件包</description>
+    <description xml:lang="zh_TW">提供 KDE 桌面環境關鍵路徑功能的一組軟體包</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">kdelibs</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>fedora-packager</id>
+    <name>Fedora Packager</name>
+    <name xml:lang="af">Fedora-verpakker</name>
+    <name xml:lang="ar">تحزيم فيدورا</name>
+    <name xml:lang="as">Fedora Packager</name>
+    <name xml:lang="ast">Empaquetador de Fedora</name>
+    <name xml:lang="bal">فدورا بسته بندی کنوک</name>
+    <name xml:lang="bg">Създаване на пакети за Fedora</name>
+    <name xml:lang="bn">Fedora প্যাকেজ ব্যবস্থা</name>
+    <name xml:lang="bn_IN">Fedora প্যাকেজ ব্যবস্থা</name>
+    <name xml:lang="ca">Empaquetador de Fedora</name>
+    <name xml:lang="cs">Vývoj balíčků pro Fedoru</name>
+    <name xml:lang="da">Fedora-pakkeansvarlig</name>
+    <name xml:lang="de">Fedora-Paket-Ersteller</name>
+    <name xml:lang="el">Δημιουργός πακέτων Fedora</name>
+    <name xml:lang="en_GB">Fedora Packager</name>
+    <name xml:lang="es">Empaquetador de Fedora</name>
+    <name xml:lang="et">Fedora pakendaja</name>
+    <name xml:lang="fa">بسته‌ساز فدورا</name>
+    <name xml:lang="fi">Fedora-paketoija</name>
+    <name xml:lang="fr">Empaqueteur Fedora</name>
+    <name xml:lang="fur">Fedora Packager</name>
+    <name xml:lang="gl">Empaquetador de Fedora</name>
+    <name xml:lang="gu">ફેડોરા પેકેજ બનાવનાર</name>
+    <name xml:lang="he">מכין חבילות עבור Fedora</name>
+    <name xml:lang="hi">फेडोरा संकुलकर्ता</name>
+    <name xml:lang="hu">Fedora csomagoló</name>
+    <name xml:lang="ia">Impaccator de Fedora</name>
+    <name xml:lang="id">Pemaket Fedora</name>
+    <name xml:lang="is">Fedora pakkarinn</name>
+    <name xml:lang="it">Packager Fedora</name>
+    <name xml:lang="ja">Fedora パッケージャ</name>
+    <name xml:lang="kn">ಫೆಡೋರಾ ಪ್ಯಾಕೇಜರ್</name>
+    <name xml:lang="ko">페도라 Packager</name>
+    <name xml:lang="lv">Fedora pakotājs</name>
+    <name xml:lang="mai">फेडोरा संकुल कर्ता</name>
+    <name xml:lang="ml">ഫെഡോറാ പാക്കേജര്‍</name>
+    <name xml:lang="mr">Fedora संकुलकार</name>
+    <name xml:lang="nb">Fedora pakkeansvarlig</name>
+    <name xml:lang="nl">Fedora-pakketsamensteller</name>
+    <name xml:lang="or">Fedora ପ୍ୟାକେଜକାରୀ</name>
+    <name xml:lang="pa">ਫੇਡੋਰਾ ਪੈਕੇਜਰ</name>
+    <name xml:lang="pl">Tworzenie pakietów Fedory</name>
+    <name xml:lang="pt">Criador de Pacotes do Fedora</name>
+    <name xml:lang="pt_BR">Empacotador do Fedora</name>
+    <name xml:lang="ru">Fedora Packager</name>
+    <name xml:lang="sk">Vývoj balíčkov pre Fedoru</name>
+    <name xml:lang="sr">Fedora програм за паковање</name>
+    <name xml:lang="sr@Latn">Fedora program za pakovanje</name>
+    <name xml:lang="sr@latin">Fedora program za pakovanje</name>
+    <name xml:lang="sv">Fedorapaketerare</name>
+    <name xml:lang="ta">ஃபெடோரா தொகுப்பி</name>
+    <name xml:lang="te">Fedora సంకలని</name>
+    <name xml:lang="tg">Идоракунии барномаҳои Fedora</name>
+    <name xml:lang="th">ผู้สร้างแพกเกจ Fedora</name>
+    <name xml:lang="tr">Fedora Paketleyicisi</name>
+    <name xml:lang="uk">Пакувальник Fedora</name>
+    <name xml:lang="zh_CN">Fedora Packager</name>
+    <name xml:lang="zh_TW">Fedora 軟體打包員</name>
+    <description>Tools and utilities needed by a Fedora Packager.</description>
+    <description xml:lang="as">এটা Fedora পেকেইজাৰৰ দ্বাৰা প্ৰয়োজনীয় সজুলিসমূহ।</description>
+    <description xml:lang="bg">Инструменти и помощни програми за Fedora Packager.</description>
+    <description xml:lang="bn">Fedora Packager দ্বারা ব্যবহারযোগ্য আবশ্যক সামগ্রী।</description>
+    <description xml:lang="bn_IN">Fedora Packager দ্বারা ব্যবহারযোগ্য আবশ্যক সামগ্রী।</description>
+    <description xml:lang="ca">Eines i utilitats necessàries per a un empaquetador de Fedora.</description>
+    <description xml:lang="cs">Nástroje potřebné pro Fedora Packager.</description>
+    <description xml:lang="da">Værktøjer og redskaber som behøves af en Fedora-pakkeansvarlig.</description>
+    <description xml:lang="de">Von einem Fedora-Paketbauer benötigte Werkzeuge und Hilfsprogramme.</description>
+    <description xml:lang="en_GB">Tools and utilities needed by a Fedora Packager.</description>
+    <description xml:lang="es">Herramientas y utilidades necesarias para cualquier Empaquetador de Fedora</description>
+    <description xml:lang="et">Fedora Packagerile vajalikud vahendid.</description>
+    <description xml:lang="fi">Fedora-paketoijan tarvitsemia työkaluja ja ohjelmia.</description>
+    <description xml:lang="fr">Outils et utilitaires nécessaires à un empaqueteur Fedora.</description>
+    <description xml:lang="gu">Fedora પેકેજર દ્વારા વાપરવામાં આવતા સાધનો અને ઉપયોગીતાઓ.</description>
+    <description xml:lang="he">כלים ועזרים הנחוצים לאורז חבילות של פדורה.</description>
+    <description xml:lang="hi">फेडोरा पैकेजर के द्वारा जरूरी औज़ार और उपयोगिताएँ.</description>
+    <description xml:lang="hu">Fedora csomagkészítők számára szükséges eszközök és segédprogramok.</description>
+    <description xml:lang="ia">Instrumentos e utilitates necessari pro un impaccator de Fedora.</description>
+    <description xml:lang="id">Perkakas dan utilitas yang diperlukan oleh seorang Pembuat Packet Fedora.</description>
+    <description xml:lang="it">Strumenti e utilità necessarie ai packager Fedora.</description>
+    <description xml:lang="ja">Fedora パッケージャーに必要なツールとユーティリティ</description>
+    <description xml:lang="kn">ಒಬ್ಬ ಫೆಡೋರಾ ಪ್ಯಾಕೇಜರುಗಳಿಗೆ ಬೇಕಿರುವ ಉಪಕರಣ ಹಾಗು ಸವಲತ್ತುಗಳು.</description>
+    <description xml:lang="ko">페도라 꾸러미에 필요한 도구 및 유틸리티.</description>
+    <description xml:lang="lv">Fedora pakotājam nepieciešamie rīki un utilītprogrammas.</description>
+    <description xml:lang="mr">फेडोरा पॅकेजरद्वारे आवश्यक साधणे व युटिलिटिज्.</description>
+    <description xml:lang="nb">Verktøy som kreves for å lage pakker for Fedora.</description>
+    <description xml:lang="nl">Gereedschappen en hulpmiddelen nodig voor een Fedora-pakketsamensteller.</description>
+    <description xml:lang="or">Fedora ପ୍ୟାକେଜକାରୀ ପାଇଁ ଆବଶ୍ୟକ ହେଉଥିବା ସାଧନ ଏବଂ ଉପକରଣଗୁଡିକ।</description>
+    <description xml:lang="pa">ਫੇਡੋਰਾ ਪੈਕਜ਼ਰ ਵਲੋਂ ਲੋੜੀਦੀ ਟੂਲ ਅਤੇ ਸਹੂਲਤਾਂ।</description>
+    <description xml:lang="pl">Narzędzia wymagane do tworzenia pakietów Fedory.</description>
+    <description xml:lang="pt">Ferramentas e utilitários necessários para os Criadores de Pacotes do Fedora.</description>
+    <description xml:lang="pt_BR">Ferramentas e utilitários necessários para um Empacotador do Fedora.</description>
+    <description xml:lang="ru">Инструменты и утилиты, необходимые упаковщику Fedora.</description>
+    <description xml:lang="sk">Nástroje potrebné vývoj balíčkov pre Fedoru.</description>
+    <description xml:lang="sr">Алатке и услужни програми које користи Fedora програм за паковање.</description>
+    <description xml:lang="sv">Verktyg och tillbehör som en Fedorapaketerare behöver.</description>
+    <description xml:lang="ta">ஒரு ஃபெடோரா தொகுப்பாளருக்கு தேவைப்படும் கருவிகள் மற்றும் வசதிகள்.</description>
+    <description xml:lang="te">ఫెడోరా ప్యాకేజర్‌కు అవసరమైన సాధనాలు మరియు సౌలభ్యాలు.</description>
+    <description xml:lang="tg">Асбобҳо ва барномаҳои зарурӣ барои Барномабанди Fedora.</description>
+    <description xml:lang="tr">Bir Fedora Paketleyicisi için gereken araçlar ve yardımcı programlar.</description>
+    <description xml:lang="uk">Інструменти та утиліти, потрібні пакувальнику Fedora.</description>
+    <description xml:lang="zh_CN">Fedora 打包者所需的工具和实用程序。</description>
+    <description xml:lang="zh_TW">Fedora 軟體包製作程式所需的工具與公用程式。</description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">bodhi-client</packagereq>
+      <packagereq type="mandatory">fedora-easy-karma</packagereq>
+      <packagereq type="mandatory">fedora-packager</packagereq>
+      <packagereq type="mandatory">fedrepo-req</packagereq>
+      <packagereq type="mandatory">git</packagereq>
+      <packagereq type="mandatory">koji</packagereq>
+      <packagereq type="mandatory">mock</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="mandatory">rpmdevtools</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>firefox</id>
+    <name>Firefox Web Browser</name>
+    <name xml:lang="af">Firefox-webblaaier</name>
+    <name xml:lang="bg">Firefox уеб четец</name>
+    <name xml:lang="ca">Navegador web Firefox</name>
+    <name xml:lang="cs">Webový prohlížeč Firefox</name>
+    <name xml:lang="da">Firefox-webbrowser</name>
+    <name xml:lang="de">Firefox Web Browser</name>
+    <name xml:lang="en_GB">Firefox Web Browser</name>
+    <name xml:lang="es">Navegador Firefox</name>
+    <name xml:lang="fi">Firefox-selain</name>
+    <name xml:lang="fr">Navigateur Web Firefox</name>
+    <name xml:lang="fur">Navigadôr Web Firefox</name>
+    <name xml:lang="hu">Firefox webböngésző</name>
+    <name xml:lang="ia">Navigator Firefox</name>
+    <name xml:lang="id">Peramban Web Firefox</name>
+    <name xml:lang="it">Browser web Firefox</name>
+    <name xml:lang="ja">Firefox ウェブブラウザー</name>
+    <name xml:lang="ko">파이어폭스 웹 열람기</name>
+    <name xml:lang="nb">Firefox nettleser</name>
+    <name xml:lang="nl">Firefox webbrowser</name>
+    <name xml:lang="pa">ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ</name>
+    <name xml:lang="pl">Przeglądarka WWW Firefox</name>
+    <name xml:lang="pt">Firefox - Navegador da Web</name>
+    <name xml:lang="pt_BR">Navegador de Internet Firefox</name>
+    <name xml:lang="ru">Веб-браузер Firefox</name>
+    <name xml:lang="sk">Webový prehliadač Firefox</name>
+    <name xml:lang="sr">Firefox веб претраживач</name>
+    <name xml:lang="sv">Firefox Webbläsare</name>
+    <name xml:lang="te">ఫైర్‌ఫాక్స్ వెబ్ బ్రౌజర్</name>
+    <name xml:lang="tr">Firefox Web Tarayıcısı</name>
+    <name xml:lang="uk">Веб-браузер Firefox</name>
+    <name xml:lang="zh_CN">Firefox 浏览器</name>
+    <name xml:lang="zh_TW">Firefox 網頁瀏覽器</name>
+    <description>The Firefox web browser</description>
+    <description xml:lang="af">Die Firefox-webblaaier</description>
+    <description xml:lang="bg">Уеб четецът Firefox</description>
+    <description xml:lang="ca">El navegador web Firefox</description>
+    <description xml:lang="cs">Webový prohlížeč Firefox</description>
+    <description xml:lang="da">Webbrowseren Firefox</description>
+    <description xml:lang="de">Der Firefox-Webbrowser</description>
+    <description xml:lang="en_GB">The Firefox web browser</description>
+    <description xml:lang="es">El navegador Firefox</description>
+    <description xml:lang="fi">Firefox-selain</description>
+    <description xml:lang="fr">Le navigateur Web Firefox</description>
+    <description xml:lang="fur">Il navigadôr web Firefox</description>
+    <description xml:lang="hu">A Firefox webböngésző</description>
+    <description xml:lang="ia">Le navigator web Firefox</description>
+    <description xml:lang="id">Peramban web Firefox</description>
+    <description xml:lang="it">Il browser web Firefox</description>
+    <description xml:lang="ja">Firefox ウェブブラウザー</description>
+    <description xml:lang="ko">파이어폭스 웹 열람기</description>
+    <description xml:lang="nb">Nettleseren Firefox</description>
+    <description xml:lang="nl">De Firefox webbrowser</description>
+    <description xml:lang="pa">ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ</description>
+    <description xml:lang="pl">Przeglądarka WWW Firefox</description>
+    <description xml:lang="pt">O navegador da Web Firefox</description>
+    <description xml:lang="pt_BR">O navegador de internet Firefox</description>
+    <description xml:lang="ru">Веб-браузер Firefox</description>
+    <description xml:lang="sk">Webový prehliadač Firefox</description>
+    <description xml:lang="sr">Firefox веб претраживач</description>
+    <description xml:lang="sv">Webbläsaren Firefox</description>
+    <description xml:lang="te">ఫైర్‌ఫాక్స్ వెబ్ బ్రౌజర్</description>
+    <description xml:lang="tr">Firefox web tarayıcısı</description>
+    <description xml:lang="uk">Веб-браузер Firefox</description>
+    <description xml:lang="zh_CN">Firefox 浏览器</description>
+    <description xml:lang="zh_TW">Firefox 網頁瀏覽器</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">firefox</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-apps</id>
+    <name>KDE Applications</name>
+    <name xml:lang="af">KDE-toepassings</name>
+    <name xml:lang="bg">KDE приложения</name>
+    <name xml:lang="ca">Aplicacions de KDE</name>
+    <name xml:lang="cs">KDE aplikace</name>
+    <name xml:lang="da">KDE-programmer</name>
+    <name xml:lang="de">KDE-Anwendungen</name>
+    <name xml:lang="en_GB">KDE Applications</name>
+    <name xml:lang="es">Aplicaciones KDE</name>
+    <name xml:lang="fi">KDE-sovellukset</name>
+    <name xml:lang="fr">Applications KDE</name>
+    <name xml:lang="fur">Aplicazions KDE</name>
+    <name xml:lang="hu">KDE alkalmazások</name>
+    <name xml:lang="ia">Applicationes KDE</name>
+    <name xml:lang="id">Aplikasi-aplikasi KDE</name>
+    <name xml:lang="it">Applicazioni KDE</name>
+    <name xml:lang="ja">KDE アプリケーションズ</name>
+    <name xml:lang="ko">KDE 응용프로그램</name>
+    <name xml:lang="nb">KDE programmer</name>
+    <name xml:lang="nl">KDE-toepassingen</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ</name>
+    <name xml:lang="pl">Aplikacje KDE</name>
+    <name xml:lang="pt">Aplicações KDE</name>
+    <name xml:lang="pt_BR">Aplicativos KDE</name>
+    <name xml:lang="ru">Приложения KDE</name>
+    <name xml:lang="sk">KDE aplikácie</name>
+    <name xml:lang="sr">KDE програми</name>
+    <name xml:lang="sv">KDE-program</name>
+    <name xml:lang="te">KDE అప్లికేషన్లు</name>
+    <name xml:lang="tr">KDE Uygulamaları</name>
+    <name xml:lang="uk">Програми KDE</name>
+    <name xml:lang="zh_CN">KDE 应用程序</name>
+    <name xml:lang="zh_TW">KDE 應用程式</name>
+    <description>A set of commonly used KDE applications</description>
+    <description xml:lang="af">’n Stel KDE-toepassings wat algemeen gebruik word</description>
+    <description xml:lang="bg">Комплект от често употребявани KDE приложения</description>
+    <description xml:lang="ca">Un conjunt d'aplicacions KDE d'ús comú</description>
+    <description xml:lang="cs">Sada běžně používaných KDE aplikací</description>
+    <description xml:lang="da">Et sæt af KDE-programmer som almindeligvis bruges</description>
+    <description xml:lang="de">Eine Sammlung häufig genutzter KDE-Anwendungen</description>
+    <description xml:lang="en_GB">A set of commonly used KDE applications</description>
+    <description xml:lang="es">Un conjunto de aplicaciones KDE de uso común.</description>
+    <description xml:lang="fi">Joukko usein käytettyjä KDE-sovelluksia</description>
+    <description xml:lang="fr">Un ensemble d’applications KDE communément utilisées</description>
+    <description xml:lang="fur">Un complès di aplicazions KDE ordenaris</description>
+    <description xml:lang="hu">Gyakran használt KDE alkalmazások gyűjteménye</description>
+    <description xml:lang="ia">Un collection de applicationes popular pro KDE</description>
+    <description xml:lang="it">Insieme di applicazioni KDE di uso comune</description>
+    <description xml:lang="ja">一般的によく使われる KDE アプリケーションのセット</description>
+    <description xml:lang="ko">공통적으로 사용되는 KDE 응용프로그램의 구성</description>
+    <description xml:lang="nb">Et sett ofte brukte KDE-programmer</description>
+    <description xml:lang="nl">Een set veel gebruikte KDE-toepassingen</description>
+    <description xml:lang="pa">ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਸਮੂਹ</description>
+    <description xml:lang="pl">Zestaw często używanych aplikacji KDE</description>
+    <description xml:lang="pt">Um conjunto de aplicaçoes comuns KDE</description>
+    <description xml:lang="pt_BR">Um conjunto de aplicativos KDE utilizados normalmente</description>
+    <description xml:lang="ru">Самые используемые приложения KDE</description>
+    <description xml:lang="sk">Súbor bežne používaných KDE aplikácií</description>
+    <description xml:lang="sr">Скуп уобичајених KDE програма</description>
+    <description xml:lang="sv">Ett antal ofta använda KDE-program</description>
+    <description xml:lang="te">సాధారణంగా ఉపయోగించే KDE అనువర్తనములు</description>
+    <description xml:lang="tr">Yaygın olarak kullanılan KDE uygulamalarının bir takımı</description>
+    <description xml:lang="uk">Набір типових програм KDE</description>
+    <description xml:lang="zh_CN">一组常用的 KDE 应用程序</description>
+    <description xml:lang="zh_TW">一套常用的 KDE 應用程式</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">ark</packagereq>
+      <packagereq type="mandatory">digikam</packagereq>
+      <packagereq type="mandatory">kde-connect</packagereq>
+      <packagereq type="mandatory">kmahjongg</packagereq>
+      <packagereq type="mandatory">kmines</packagereq>
+      <packagereq type="mandatory">kolourpaint</packagereq>
+      <packagereq type="mandatory">konversation</packagereq>
+      <packagereq type="mandatory">kpat</packagereq>
+      <packagereq type="mandatory">krdc</packagereq>
+      <packagereq type="mandatory">krfb</packagereq>
+      <packagereq type="mandatory">krusader</packagereq>
+      <packagereq type="mandatory">ktorrent</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-desktop</id>
+    <name>KDE</name>
+    <name xml:lang="af">KDE</name>
+    <name xml:lang="bg">KDE</name>
+    <name xml:lang="ca">KDE</name>
+    <name xml:lang="cs">KDE</name>
+    <name xml:lang="da">KDE</name>
+    <name xml:lang="de">KDE</name>
+    <name xml:lang="en_GB">KDE</name>
+    <name xml:lang="es">KDE</name>
+    <name xml:lang="fi">KDE</name>
+    <name xml:lang="fr">KDE</name>
+    <name xml:lang="fur">KDE</name>
+    <name xml:lang="hu">KDE</name>
+    <name xml:lang="ia">KDE</name>
+    <name xml:lang="id">KDE</name>
+    <name xml:lang="it">KDE</name>
+    <name xml:lang="ja">KDE</name>
+    <name xml:lang="ko">KDE</name>
+    <name xml:lang="nb">KDE</name>
+    <name xml:lang="nl">KDE</name>
+    <name xml:lang="pa">ਕੇਡੀਈ</name>
+    <name xml:lang="pl">KDE</name>
+    <name xml:lang="pt">KDE</name>
+    <name xml:lang="pt_BR">KDE</name>
+    <name xml:lang="ru">KDE</name>
+    <name xml:lang="sk">KDE</name>
+    <name xml:lang="sr">KDE</name>
+    <name xml:lang="sv">KDE</name>
+    <name xml:lang="tr">KDE</name>
+    <name xml:lang="uk">KDE</name>
+    <name xml:lang="zh_CN">KDE</name>
+    <name xml:lang="zh_TW">KDE</name>
+    <description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="bg">The KDE Plasma Workspaces, графичен потребителски интерфейс с големи възможности за конфигуриране, включващ панел, работна среда, системни икони и инструменти, и всякакви, много мощни KDE приложения.</description>
+    <description xml:lang="ca">KDE Plasma Workspaces, una interfície gràfica d'usuari molt configurable que inclou un tauler, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE.</description>
+    <description xml:lang="cs">Pracovní plochy KDE Plasma je vysoce-konfigurovatelné grafické uživatelské rozhraní zahrnující panely, pracovni plochu, systémové ikony, widgety a mnoho vykonných KDE aplikací.</description>
+    <description xml:lang="da">KDE Plasma-arbejdsområder, en grafisk brugerflade som kan konfigureres meget og som inkluderer et panel, skrivebord, systemikoner, skrivebordswidgets og mange kraftfulde KDE-programmer.</description>
+    <description xml:lang="de">Die KDE Plasma-Arbeitsumgebung ist eine hoch-konfigurierbare grafische Benutzeroberfläche mit Menüleiste, Schreibtisch, Systemsymbolen, Widgets und vielen ausgefeilten KDE-Anwendungen.</description>
+    <description xml:lang="en_GB">The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="es">Los espacios de trabajo KDE plasma tienen una interfaz totalmente configurable, que incluye un panel, un escritorio, sistema de iconos y widgets y muchas aplicaciones de KDE.</description>
+    <description xml:lang="fi">KDE Plasma Workspaces, muokattava graafinen käyttöliittymä, johon kuuluu paneeli, työpöytä, järjestelmäkuvakkeet ja graafinen tiedostohallinta sekä useita KDE-ohjelmia.</description>
+    <description xml:lang="fr">L’interface graphique utilisateur hautement configurable KDE Plasma, qui contient un tableau de bord, un bureau, des icônes systèmes, des widgets de bureau ainsi que de nombreuses applications KDE.</description>
+    <description xml:lang="fur">I spazis di lavôr Plasma KDE, une interface utent grafiche une vore configurabile che e inclût un panel, scritori, iconis di sisteme e widget di scritori e tantis potentis aplicazions KDE.</description>
+    <description xml:lang="hu">A KDE Plasma Workspaces egy részletesen konfigurálható grafikus felhasználói felületet, melynek része a panel, az asztal, a rendszerikonok, az asztali kisalkalmazások és sok más hatékony KDE alkalmazás.</description>
+    <description xml:lang="ia">Le spatios de travalio KDE Plasma es un interfacie graphic de usator multo configurabile que comprende un pannello, un scriptorio, icones de systema, widgets de scriptorio e numerose applicationes KDE.</description>
+    <description xml:lang="it">Spazi di lavoro Plasma per KDE, una interfaccia grafica molto configurabile che include un pannello, scrivania, icone di sistema e applicazioni su scrivania, e molte potenti applicazioni KDE</description>
+    <description xml:lang="ja">KDE Plasma ワークスペースはパネル、デスクトップ、システムアイコン、デスクトップウィジェット、および多くの強力なKDEアプリケーションを搭載するグラフィカルユーザーインターフェースです。</description>
+    <description xml:lang="ko">KDE 플레즈마 작업공간, 패널, 데스크탑, 시스템 아이콘과 데스크탑 위젯, 그리고 많은 강력한 KDE 응용프로그램을 포함하는 것과 같이 고도로-설정 할 수 있는 그래픽 사용자 연결장치.</description>
+    <description xml:lang="nl">De KDE Plasma-werkruimtes is een heel configureerbare grafische gebruikersinterface met paneel, bureaublad, systeemiconen en bureaubladwidgets, met daarnaast vele krachtige KDE-toepassingen.</description>
+    <description xml:lang="pa">ਕੇਡੀਈ (KDE) ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ, ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੰਰਚਨਾ ਕਰਨ ਯੋਗ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈਟ ਹਨ, ਕਈ ਮਜ਼ਬੂਤ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸਮੇਤ।</description>
+    <description xml:lang="pl">KDE Plasma, wysoce konfigurowalny graficzny interfejs użytkownika zawierający panel, pulpit, ikony systemowe, widżety pulpitu i wiele aplikacji KDE o dużych możliwościach.</description>
+    <description xml:lang="pt">O Plasma KDE Workspaces, um interface gráfico altamente configurável que inclui um painel, desktop, ícones do sistema e widgets de desktop, e muitos aplicativos do KDE poderosos.</description>
+    <description xml:lang="pt_BR">O ambiente de trabalho KDE Plasma, uma interface gráfica de usuário altamente configurável que inclui um painel, uma área de trabalho, ícones de sistema, widgets para a área de trabalho e muitos aplicativos poderosos do KDE.</description>
+    <description xml:lang="ru">KDE Plasma Workspaces - легко настраиваемый графический интерфейс пользователя, который содержит панель, рабочий стол, системные значки и виджеты рабочего стола, а также множество эффективных приложений KDE.</description>
+    <description xml:lang="sk">Pracovná plocha KDE Plasma , vysoko konfigurovateľné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a widgety plochy a množstvo užitočných a výkonných KDE aplikácií.</description>
+    <description xml:lang="sr">KDE Plasma Workspaces, веома подесиво графичко окружење које укључује панел, позадину, системске иконице, виџете за позадину и много моћних KDE програма.</description>
+    <description xml:lang="sv">KDE Plasma arbetsytor, ett mycket konfigurerbart grafiskt användargränssnitt som inkluderar en panel, skrivbord, systemikoner och skrivbordsprogram och många kraftfulla KDE-program.</description>
+    <description xml:lang="te">KDE ప్లాస్మా పని ప్రదేశాలు, ఒక ప్యానెల్, డెస్క్టాప్, వ్యవస్థ గుర్తులు మరియు డెస్క్టాప్ విడ్జెట్, మరియు అనేక శక్తివంతమైన KDE అప్లికేషన్లు కలిగి అత్యంత నిర్వహించగల గ్రాఫికల్ యూజర్ ఇంటర్ఫేస్.</description>
+    <description xml:lang="tr">KDE Plasma Çalışma Alanları; panel, masaüstü, sistem simgeleri, masaüstü araç gereçleri ve birçok güçlü KDE uygulaması içeren yüksek derecede yapılandırılabilir bir grafiksel kullanıcı arayüzüdür.</description>
+    <description xml:lang="uk">Робочий простір Плазми KDE складається з дуже гнучкого у налаштовуванні графічного інтерфейсу, що складається з панелі, стільниці, системних піктограм та віджетів стільниці, та багатьох потужних програм KDE.</description>
+    <description xml:lang="zh_CN">KDE Plasma 是一个可灵活配置的图形用户界面，包括面板，桌面，系统图标和桌面小部件，以及许多功能强大的 KDE 应用程序。</description>
+    <description xml:lang="zh_TW">KDE Plasma 工作空間，是設定可高度調整的圖形化使用介面，包含面板、桌面、系統圖示、桌面小工具、許多強大的 KDE 應用程式等。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">abrt-desktop</packagereq>
+      <packagereq type="mandatory">adwaita-gtk2-theme</packagereq>
+      <packagereq type="mandatory">bluedevil</packagereq>
+      <packagereq type="mandatory">breeze-icon-theme</packagereq>
+      <packagereq type="mandatory">colord-kde</packagereq>
+      <packagereq type="mandatory">cups-pk-helper</packagereq>
+      <packagereq type="mandatory">dolphin</packagereq>
+      <packagereq type="mandatory">firewall-config</packagereq>
+      <packagereq type="mandatory">glibc-all-langpacks</packagereq>
+      <packagereq type="mandatory">gnome-keyring-pam</packagereq>
+      <packagereq type="mandatory">gwenview</packagereq>
+      <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">kamera</packagereq>
+      <packagereq type="mandatory">kcalc</packagereq>
+      <packagereq type="mandatory">kcharselect</packagereq>
+      <packagereq type="mandatory">kcm_systemd</packagereq>
+      <packagereq type="mandatory">kcolorchooser</packagereq>
+      <packagereq type="mandatory">kde-gtk-config</packagereq>
+      <packagereq type="mandatory">kde-partitionmanager</packagereq>
+      <packagereq type="mandatory">kde-print-manager</packagereq>
+      <packagereq type="mandatory">kde-settings-pulseaudio</packagereq>
+      <packagereq type="mandatory">kdegraphics-thumbnailers</packagereq>
+      <packagereq type="mandatory">kdeplasma-addons</packagereq>
+      <packagereq type="mandatory">kdialog</packagereq>
+      <packagereq type="mandatory">kdnssd</packagereq>
+      <packagereq type="mandatory">keditbookmarks</packagereq>
+      <packagereq type="mandatory">kf5-akonadi-server</packagereq>
+      <packagereq type="mandatory">kf5-akonadi-server-mysql</packagereq>
+      <packagereq type="mandatory">kf5-baloo-file</packagereq>
+      <packagereq type="mandatory">kf5-kipi-plugins</packagereq>
+      <packagereq type="mandatory">kfind</packagereq>
+      <packagereq type="mandatory">kgpg</packagereq>
+      <packagereq type="mandatory">khelpcenter</packagereq>
+      <packagereq type="mandatory">khotkeys</packagereq>
+      <packagereq type="mandatory">kinfocenter</packagereq>
+      <packagereq type="mandatory">kmag</packagereq>
+      <packagereq type="mandatory">kmenuedit</packagereq>
+      <packagereq type="mandatory">kmousetool</packagereq>
+      <packagereq type="mandatory">kmouth</packagereq>
+      <packagereq type="mandatory">konqueror</packagereq>
+      <packagereq type="mandatory">konsole5</packagereq>
+      <packagereq type="mandatory">kruler</packagereq>
+      <packagereq type="mandatory">kscreen</packagereq>
+      <packagereq type="mandatory">kscreenlocker</packagereq>
+      <packagereq type="mandatory">ksshaskpass</packagereq>
+      <packagereq type="mandatory">ksysguard</packagereq>
+      <packagereq type="mandatory">kwalletmanager5</packagereq>
+      <packagereq type="mandatory">kwebkitpart</packagereq>
+      <packagereq type="mandatory">kwin</packagereq>
+      <packagereq type="mandatory">kwrite</packagereq>
+      <packagereq type="mandatory">pam-kwallet</packagereq>
+      <packagereq type="mandatory">phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq type="mandatory">plasma-breeze</packagereq>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-desktop-doc</packagereq>
+      <packagereq type="mandatory">plasma-drkonqi</packagereq>
+      <packagereq type="mandatory">plasma-nm</packagereq>
+      <packagereq type="mandatory">plasma-nm-l2tp</packagereq>
+      <packagereq type="mandatory">plasma-nm-openconnect</packagereq>
+      <packagereq type="mandatory">plasma-nm-openswan</packagereq>
+      <packagereq type="mandatory">plasma-nm-openvpn</packagereq>
+      <packagereq type="mandatory">plasma-nm-pptp</packagereq>
+      <packagereq type="mandatory">plasma-pa</packagereq>
+      <packagereq type="mandatory">plasma-pk-updates</packagereq>
+      <packagereq type="mandatory">plasma-user-manager</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">plasma-workspace-geolocation</packagereq>
+      <packagereq type="mandatory">polkit-kde</packagereq>
+      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
+      <packagereq type="mandatory">qt5-qtdeclarative</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+      <packagereq type="mandatory">sddm-breeze</packagereq>
+      <packagereq type="mandatory">sddm-kcm</packagereq>
+      <packagereq type="mandatory">spectacle</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-education</id>
+    <name>KDE Educational applications</name>
+    <name xml:lang="af">KDE- opvoedkundige toepassings</name>
+    <name xml:lang="bg">Образователни приложения за KDE</name>
+    <name xml:lang="ca">Aplicacions de KDE Educational</name>
+    <name xml:lang="cs">KDE výukové aplikace</name>
+    <name xml:lang="da">KDE-undervisningsprogrammer</name>
+    <name xml:lang="de">Pädagogische Anwendungen für KDE</name>
+    <name xml:lang="en_GB">KDE Educational applications</name>
+    <name xml:lang="es">Aplicaciones educativas KDE</name>
+    <name xml:lang="fi">KDE:n opetusohjelmat</name>
+    <name xml:lang="fr">Applications éducatives KDE</name>
+    <name xml:lang="fur">Aplicazions educativis KDE</name>
+    <name xml:lang="hu">KDE oktatási alkalmazások</name>
+    <name xml:lang="ia">Applicationes KDE educational</name>
+    <name xml:lang="id">Aplikasi-aplikasi Edukasi pada KDE</name>
+    <name xml:lang="it">Applicazioni didattiche per KDE</name>
+    <name xml:lang="ja">KDE 教育系アプリケーション</name>
+    <name xml:lang="ko">KDE 교육용 응용프로그램</name>
+    <name xml:lang="nb">KDE-undervisningsprogrammer</name>
+    <name xml:lang="nl">KDE educatieve toepassingen</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਵਿਦਿਅਕ ਐਪਲੀਕੇਸ਼ਨ</name>
+    <name xml:lang="pl">Aplikacje edukacyjne KDE</name>
+    <name xml:lang="pt">Aplicações educacionais KDE</name>
+    <name xml:lang="pt_BR">Aplicativos Educacionais KDE</name>
+    <name xml:lang="ru">Приложения KDE для образования</name>
+    <name xml:lang="sk">KDE výukové aplikácie</name>
+    <name xml:lang="sr">KDE образовни програми</name>
+    <name xml:lang="sv">KDE utbildningsprogram</name>
+    <name xml:lang="te">KDE విద్య అనువర్తనములు</name>
+    <name xml:lang="tr">KDE Eğitsel uygulamaları</name>
+    <name xml:lang="uk">Навчальні програми KDE</name>
+    <name xml:lang="zh_CN">KDE 教育程序</name>
+    <name xml:lang="zh_TW">KDE 教育應用程式</name>
+    <description>KDE Educational applications</description>
+    <description xml:lang="af">KDE- opvoedkundige toepassings</description>
+    <description xml:lang="bg">Образователни приложения за KDE</description>
+    <description xml:lang="ca">Aplicacions de KDE Educational</description>
+    <description xml:lang="cs">KDE výukové aplikace</description>
+    <description xml:lang="da">KDE-undervisningsprogrammer</description>
+    <description xml:lang="de">Pädagogische Anwendungen für KDE</description>
+    <description xml:lang="en_GB">KDE Educational applications</description>
+    <description xml:lang="es">Aplicaciones educativas KDE</description>
+    <description xml:lang="fi">KDE:n opetusohjelmat</description>
+    <description xml:lang="fr">Applications éducatives KDE</description>
+    <description xml:lang="fur">Aplicazions educativis KDE</description>
+    <description xml:lang="hu">KDE oktatási alkalmazások</description>
+    <description xml:lang="ia">Applicationes KDE educational</description>
+    <description xml:lang="id">Aplikasi-aplikasi Edukasi pada KDE</description>
+    <description xml:lang="it">Applicazioni didattiche per KDE</description>
+    <description xml:lang="ja">KDE 教育系アプリケーション</description>
+    <description xml:lang="ko">KDE 교육용 응용프로그램</description>
+    <description xml:lang="nb">KDE-undervisningsprogrammer</description>
+    <description xml:lang="nl">KDE educatieve toepassingen</description>
+    <description xml:lang="pa">ਕੇਡੀਈ ਵਿਦਿਅਕ ਐਪਲੀਕੇਸ਼ਨ</description>
+    <description xml:lang="pl">Aplikacje edukacyjne KDE</description>
+    <description xml:lang="pt">Aplicações educacionais KDE</description>
+    <description xml:lang="pt_BR">Aplicativos Educacionais KDE</description>
+    <description xml:lang="ru">Приложения KDE для образования</description>
+    <description xml:lang="sk">KDE výukové aplikácie</description>
+    <description xml:lang="sr">KDE образовни програми</description>
+    <description xml:lang="sv">KDE utbildningsprogram</description>
+    <description xml:lang="te">KDE విద్య అనువర్తనములు</description>
+    <description xml:lang="tr">KDE Eğitsel uygulamaları</description>
+    <description xml:lang="uk">Навчальні програми KDE</description>
+    <description xml:lang="zh_CN">KDE 教育程序</description>
+    <description xml:lang="zh_TW">KDE 教育應用程式</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">blinken</packagereq>
+      <packagereq type="mandatory">cantor</packagereq>
+      <packagereq type="mandatory">kalgebra</packagereq>
+      <packagereq type="mandatory">kalzium</packagereq>
+      <packagereq type="mandatory">kanagram</packagereq>
+      <packagereq type="mandatory">kbruch</packagereq>
+      <packagereq type="mandatory">kgeography</packagereq>
+      <packagereq type="mandatory">khangman</packagereq>
+      <packagereq type="mandatory">kig</packagereq>
+      <packagereq type="mandatory">kiten</packagereq>
+      <packagereq type="mandatory">klettres</packagereq>
+      <packagereq type="mandatory">kmplot</packagereq>
+      <packagereq type="mandatory">kstars</packagereq>
+      <packagereq type="mandatory">ktouch</packagereq>
+      <packagereq type="mandatory">kturtle</packagereq>
+      <packagereq type="mandatory">kwordquiz</packagereq>
+      <packagereq type="mandatory">marble</packagereq>
+      <packagereq type="mandatory">parley</packagereq>
+      <packagereq type="mandatory">rocs</packagereq>
+      <packagereq type="mandatory">step</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-media</id>
+    <name>KDE Multimedia support</name>
+    <name xml:lang="af">KDE-multimedia-ondersteuning</name>
+    <name xml:lang="bg">Мултимедийна поддръжка в KDE</name>
+    <name xml:lang="ca">Suport multimèdia de KDE</name>
+    <name xml:lang="cs">KDE multimediální podpora</name>
+    <name xml:lang="da">KDE-multimedieunderstøttelse</name>
+    <name xml:lang="de">KDE-Multimedia-Unterstützung</name>
+    <name xml:lang="en_GB">KDE Multimedia support</name>
+    <name xml:lang="es">Soporte Multimedia KDE</name>
+    <name xml:lang="fi">KDE:n multimediatuki</name>
+    <name xml:lang="fr">Prise en charge multimédia KDE</name>
+    <name xml:lang="fur">Supuart multimediâl KDE</name>
+    <name xml:lang="hu">KDE multimédia támogatás</name>
+    <name xml:lang="ia">Multimedio pro KDE</name>
+    <name xml:lang="id">Dukungan Multimedia pada KDE</name>
+    <name xml:lang="it">Supporto multimediale per KDE</name>
+    <name xml:lang="ja">KDE マルチメディアサポート</name>
+    <name xml:lang="ko">KDE 멀티미디어 지원</name>
+    <name xml:lang="nb">KDE-multimediastøtte</name>
+    <name xml:lang="nl">KDE multimedia-omdersteuning</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ</name>
+    <name xml:lang="pl">Obsługa multimediów w środowisku KDE</name>
+    <name xml:lang="pt">Suporte de Multimédia KDE</name>
+    <name xml:lang="pt_BR">Suporte Multimídia KDE</name>
+    <name xml:lang="ru">Поддержка мультимедиа в KDE</name>
+    <name xml:lang="sk">KDE multimediálna podpora</name>
+    <name xml:lang="sr">KDE подршка за мултимедију</name>
+    <name xml:lang="sv">KDE multimediastöd</name>
+    <name xml:lang="te">KDE మల్టిమీడియా మద్దతు</name>
+    <name xml:lang="tr">KDE Çoklu Ortam desteği</name>
+    <name xml:lang="uk">Мультимедійні програми KDE</name>
+    <name xml:lang="zh_CN">KDE 多媒体支持</name>
+    <name xml:lang="zh_TW">KDE 多媒體支援</name>
+    <description>Multimedia support for KDE</description>
+    <description xml:lang="af">Multimedia-ondersteuning vir KDE</description>
+    <description xml:lang="bg">Поддръжка на мултимедия за KDE</description>
+    <description xml:lang="ca">Suport multimèdia per a KDE</description>
+    <description xml:lang="cs">Multimediální podpora pro KDE</description>
+    <description xml:lang="da">Multimedieunderstøttelse til KDE</description>
+    <description xml:lang="de">Multimedia-Unterstützung für KDE</description>
+    <description xml:lang="en_GB">Multimedia support for KDE</description>
+    <description xml:lang="es">Soporte Multimedia para KDE</description>
+    <description xml:lang="fi">Multimediatuki KDE:lle</description>
+    <description xml:lang="fr">Prise en charge multimédia pour KDE</description>
+    <description xml:lang="fur">Supuart multimediâl par KDE</description>
+    <description xml:lang="hu">Multimédia támogatás a KDE-hez</description>
+    <description xml:lang="ia">Supporto de multimedio pro KDE</description>
+    <description xml:lang="id">Dukungan multimedia untuk KDE</description>
+    <description xml:lang="it">Supporto multimediale per KDE</description>
+    <description xml:lang="ja">KDE のためのマルチメディアサポート</description>
+    <description xml:lang="ko">KDE를 위한 멀티미디어 지원</description>
+    <description xml:lang="nb">Multimediastøtte for KDE</description>
+    <description xml:lang="nl">Multimedia-ondersteuning voor KDE</description>
+    <description xml:lang="pa">ਕੇਡੀਈ ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ</description>
+    <description xml:lang="pl">Obsługa multimediów dla środowiska KDE</description>
+    <description xml:lang="pt">Suporte de Multimédia para KDE</description>
+    <description xml:lang="pt_BR">Suporte Multimídia para o KDE</description>
+    <description xml:lang="ru">Поддержка мультимедиа в KDE</description>
+    <description xml:lang="sk">Multimediálna podpora pre KDE</description>
+    <description xml:lang="sr">KDE подршка за мултимедију</description>
+    <description xml:lang="sv">Multimediastöd för KDE</description>
+    <description xml:lang="te">KDE కొరకు మల్టిమీడియా మద్దతు</description>
+    <description xml:lang="tr">KDE için çoklu ortam desteği</description>
+    <description xml:lang="uk">Мультимедійні програми KDE</description>
+    <description xml:lang="zh_CN">为 KDE 提供的多媒体支持</description>
+    <description xml:lang="zh_TW">KDE 的多媒體支援</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">dragon</packagereq>
+      <packagereq type="mandatory">juk</packagereq>
+      <packagereq type="mandatory">k3b</packagereq>
+      <packagereq type="mandatory">kamoso</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-office</id>
+    <name>KDE Office</name>
+    <name xml:lang="af">KDE Office</name>
+    <name xml:lang="bg">KDE Офис</name>
+    <name xml:lang="ca">Ofimàtica KDE</name>
+    <name xml:lang="cs">KDE Office</name>
+    <name xml:lang="da">KDE-kontor</name>
+    <name xml:lang="de">KDE Office</name>
+    <name xml:lang="en_GB">KDE Office</name>
+    <name xml:lang="es">KDE Office</name>
+    <name xml:lang="fi">KDE-toimisto</name>
+    <name xml:lang="fr">KDE Office</name>
+    <name xml:lang="fur">Ufici KDE</name>
+    <name xml:lang="hu">KDE Office</name>
+    <name xml:lang="ia">Officio KDE</name>
+    <name xml:lang="id">Perkantoran KDE</name>
+    <name xml:lang="it">Office per KDE</name>
+    <name xml:lang="ja">KDE オフィス</name>
+    <name xml:lang="ko">업무용</name>
+    <name xml:lang="nb">KDE-kontor</name>
+    <name xml:lang="nl">KDE Kantoor</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਆਫਿਸ</name>
+    <name xml:lang="pl">Pakiet biurowy KDE</name>
+    <name xml:lang="pt">KDE Office</name>
+    <name xml:lang="pt_BR">Escritório KDE</name>
+    <name xml:lang="ru">Офис KDE</name>
+    <name xml:lang="sk">KDE kancelária</name>
+    <name xml:lang="sr">KDE Office</name>
+    <name xml:lang="sv">KDE kontor</name>
+    <name xml:lang="te">KDE ఆఫీస్</name>
+    <name xml:lang="tr">KDE Ofis</name>
+    <name xml:lang="uk">Офісні програми KDE</name>
+    <name xml:lang="zh_CN">KDE Office</name>
+    <name xml:lang="zh_TW">KDE 辦公</name>
+    <description>KDE Office applications</description>
+    <description xml:lang="af">KDE Office-toepassings</description>
+    <description xml:lang="bg">KDE Офис приложения</description>
+    <description xml:lang="ca">Aplicacions d'ofimàtica KDE</description>
+    <description xml:lang="cs">KDE Office aplikace</description>
+    <description xml:lang="da">KDE-kontorprogrammer</description>
+    <description xml:lang="de">KDE Office-Anwendungen</description>
+    <description xml:lang="en_GB">KDE Office applications</description>
+    <description xml:lang="es">Aplicaciones KDE Office</description>
+    <description xml:lang="fi">KDE-toimistosovellukset</description>
+    <description xml:lang="fr">Applications bureautiques KDE</description>
+    <description xml:lang="fur">Aplicazions par ufici KDE</description>
+    <description xml:lang="hu">KDE irodai alkalmazások</description>
+    <description xml:lang="ia">Applicationes del officio KDE</description>
+    <description xml:lang="id">Aplikasi-aplikasi KDE untuk Perkantoran</description>
+    <description xml:lang="it">Applicationi per ufficio di KDE</description>
+    <description xml:lang="ja">KDE オフィスアプリケーション</description>
+    <description xml:lang="ko">KDE 업무용 응용프로그램</description>
+    <description xml:lang="nb">KDE-kontorprogram</description>
+    <description xml:lang="nl">KDE-kantoortoepassingen</description>
+    <description xml:lang="pa">ਕੇਡੀਈ ਆਫਿਸ ਐਪਲੀਕੇਸ਼ਨ</description>
+    <description xml:lang="pl">Aplikacje biurowe KDE</description>
+    <description xml:lang="pt">Aplicações KDE Office</description>
+    <description xml:lang="pt_BR">Aplicativos de Escritório do KDE</description>
+    <description xml:lang="ru">Офисные приложения KDE</description>
+    <description xml:lang="sk">KDE kancelárske aplikácie</description>
+    <description xml:lang="sr">KDE Office програми</description>
+    <description xml:lang="sv">KDE kontorsprogram</description>
+    <description xml:lang="te">KDE ఆఫీస్ అనువర్తనములు</description>
+    <description xml:lang="tr">KDE Ofis uygulamaları</description>
+    <description xml:lang="uk">Офісні програми KDE</description>
+    <description xml:lang="zh_CN">KDE Office 应用程序</description>
+    <description xml:lang="zh_TW">KDE 辦公應用程式</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">calligra-sheets</packagereq>
+      <packagereq type="mandatory">calligra-stage</packagereq>
+      <packagereq type="mandatory">calligra-words</packagereq>
+      <packagereq type="mandatory">okular</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-software-development</id>
+    <name>KDE Software Development</name>
+    <name xml:lang="af">Sagtewareontwikkeling vir KDE</name>
+    <name xml:lang="am">የኬዲኢ ሶፍትዌር እድገት</name>
+    <name xml:lang="ar">برامج تطوير كيدي</name>
+    <name xml:lang="as">KDE চালনাজ্ঞানৰ বিকাশ</name>
+    <name xml:lang="ast">Desendolcu de software pa KDE</name>
+    <name xml:lang="bal">برنامه پیشرپت KDE </name>
+    <name xml:lang="be">Асяродзьдзе распрацоўкі KDE</name>
+    <name xml:lang="bg">KDE софтуерна разработка</name>
+    <name xml:lang="bn">KDE ভিত্তিক সফ্টওয়্যার নির্মাণ</name>
+    <name xml:lang="bn_IN">KDE ভিত্তিক সফ্টওয়্যার নির্মাণ</name>
+    <name xml:lang="bs">KDE razvoj softvera</name>
+    <name xml:lang="ca">Desenvolupament de programari KDE</name>
+    <name xml:lang="cs">Vývoj pro KDE</name>
+    <name xml:lang="cy">Datblygu Meddalwedd KDE</name>
+    <name xml:lang="da">KDE-softwareudvikling</name>
+    <name xml:lang="de">KDE-Softwareentwicklung</name>
+    <name xml:lang="el">Ανάπτυξη λογισμικού KDE</name>
+    <name xml:lang="en_GB">KDE Software Development</name>
+    <name xml:lang="es">Desarrollo de software para KDE</name>
+    <name xml:lang="et">KDE tarkvaraarendus</name>
+    <name xml:lang="eu">KDE software garapena</name>
+    <name xml:lang="fa">توسعه نرم‌افزاری KDE</name>
+    <name xml:lang="fi">KDE-ohjelmistokehitys</name>
+    <name xml:lang="fr">Développement de logiciel KDE</name>
+    <name xml:lang="fur">Disvilup software KDE</name>
+    <name xml:lang="gl">Desenvolvemento de software de KDE</name>
+    <name xml:lang="gu">KDE સોફ્ટવેર વિકાસ</name>
+    <name xml:lang="he">פיתוח תכנה עבור KDE</name>
+    <name xml:lang="hi">KDE सॉफ़्टवेयर विकास</name>
+    <name xml:lang="hr">KDE razvoj softvera</name>
+    <name xml:lang="hu">KDE szoftverfejlesztés</name>
+    <name xml:lang="hy">KDE ծրագրերի կառուցում</name>
+    <name xml:lang="ia">Disveloppamento de software pro KDE</name>
+    <name xml:lang="id">Pengembangan Piranti Lunak KDE</name>
+    <name xml:lang="is">Hugbúnaðarþróun fyrir KDE</name>
+    <name xml:lang="it">Sviluppo applicazioni KDE</name>
+    <name xml:lang="ja">KDE ソフトウェア開発環境</name>
+    <name xml:lang="ka">KDE-ის პროგრამების შექმნა</name>
+    <name xml:lang="kn">KDE ತಂತ್ರಾಂಶ ವಿಕಾಸನ</name>
+    <name xml:lang="ko">KDE 소프트웨어 개발</name>
+    <name xml:lang="lv">KDE programmatūras izstrāde</name>
+    <name xml:lang="mai">KDE साफ्टवेयर विकास</name>
+    <name xml:lang="mk">Развој на КДЕ софтвер</name>
+    <name xml:lang="ml">KDE സോഫ്റ്റവയര്‍ ഡെവലപ്പ്മെന്റ്</name>
+    <name xml:lang="mr">KDE सॉफ्टवेयर विकास</name>
+    <name xml:lang="ms">Pembangunan Perisian KDE</name>
+    <name xml:lang="nb">Programvareutvikling for KDE</name>
+    <name xml:lang="ne">केडीई सफ्टवेयर विकास</name>
+    <name xml:lang="nl">KDE Softwareontwikkeling</name>
+    <name xml:lang="nso">Tšwetšopele ya Lenaneo la Khomphuthara ya KDE</name>
+    <name xml:lang="or">କେ.ଡି.ଇ. ସଫ୍ଟୱେର ର ବିକାଶ</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ</name>
+    <name xml:lang="pl">Tworzenie oprogramowania KDE</name>
+    <name xml:lang="pt">Desenvolvimento de Software KDE</name>
+    <name xml:lang="pt_BR">Desenvolvimento de software KDE</name>
+    <name xml:lang="ro">Dezvoltare programe KDE</name>
+    <name xml:lang="ru">Средства разработки KDE</name>
+    <name xml:lang="si">KDE මෘදුකාංග ප්‍රවර්ධනය</name>
+    <name xml:lang="sk">Softvérový vývoj KDE</name>
+    <name xml:lang="sl">Razvoj programov za KDE</name>
+    <name xml:lang="sq">Zhvillim Programesh KDE</name>
+    <name xml:lang="sr">Развој KDE софтвера</name>
+    <name xml:lang="sr@Latn">Razvoj KDE softvera</name>
+    <name xml:lang="sr@latin">Razvoj KDE softvera</name>
+    <name xml:lang="sv">KDE-programvaruutveckling</name>
+    <name xml:lang="ta">கேடியி மென்பொருள் உருவாக்கம்</name>
+    <name xml:lang="te">KDE Software మద్దతు</name>
+    <name xml:lang="tg">Барноманависии нармафзори KDE</name>
+    <name xml:lang="th">การพัฒนาซอฟต์แวร์บน KDE</name>
+    <name xml:lang="tr">KDE Yazılım Geliştirme</name>
+    <name xml:lang="uk">Розробка з використанням KDE</name>
+    <name xml:lang="ur"> كيڈي سوفٹوار  تعمیر</name>
+    <name xml:lang="vi">Phát triển phần mềm KDE</name>
+    <name xml:lang="zh_CN">KDE 软件开发</name>
+    <name xml:lang="zh_TW">KDE 軟體開發</name>
+    <name xml:lang="zu">Ukuthuthukiswa Kwengaphakathi lekhomputha ye-KDE</name>
+    <description>Install these packages to develop Qt and KDE graphical applications.</description>
+    <description xml:lang="af">Installeer hierdie pakkette om grafiese toepassings met Qt en KDE te ontwikkel.</description>
+    <description xml:lang="bg">Инсталирайте тези пакети, за да можете да разработвате QT и KDE графични приложения.</description>
+    <description xml:lang="ca">Instal·leu aquests paquets per desenvolupar aplicacions gràfiques Qt i KDE.</description>
+    <description xml:lang="cs">Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro Qt a KDE.</description>
+    <description xml:lang="da">Installér disse pakker for at udvikle grafiske Qt- og KDE-programmer.</description>
+    <description xml:lang="de">Installieren Sie diese Pakete, um grafische Anwendungen für QT und KDE zu entwickeln.</description>
+    <description xml:lang="es">Instale estos paquetes para desarrollar aplicaciones gráficas Qt y KDE.</description>
+    <description xml:lang="fi">Asenna nämä paketit graafisten Qt- ja KDE-sovellusten kehittämiseksi.</description>
+    <description xml:lang="fr">Installez ces paquets pour développer des applications graphiques QtT et KDE.</description>
+    <description xml:lang="fur">Instale chescj pachets par disvilupâ aplicazions grafichis in Qt e KDE.</description>
+    <description xml:lang="hu">Telepítse ezeket a csomagokat Qt és KDE grafikus alkalmazások fejlesztéséhez.</description>
+    <description xml:lang="it">Installare questi pacchetti per sviluppare applicazioni grafiche per QT e KDE.</description>
+    <description xml:lang="ko">Qt와 KDE용 그래픽 응용프로그램을 개발하려면 이들 꾸러미를 설치해야합니다.</description>
+    <description xml:lang="nl">Installeer deze pakketten om grafische toepassingen voor Qt en KDE te ontwikkelen.</description>
+    <description xml:lang="pa">Qt ਅਤੇ KDE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।</description>
+    <description xml:lang="pl">Należy zainstalować te pakiety, aby tworzyć graficzne aplikacje Qt i KDE.</description>
+    <description xml:lang="pt">Instale estes pacotes se quiser desenvolver aplicações gráficas QT e KDE.</description>
+    <description xml:lang="pt_BR">Instale estes pacotes para desenvolver aplicações gráficas do KDE e Qt.</description>
+    <description xml:lang="ru">Установите эти пакеты, если вы хотите разрабатывать графические приложения QT и KDE.</description>
+    <description xml:lang="sk">Nainštalujte si tieto balíčky, ak budete vyvíjať grafické aplikácie Qt a KDE.</description>
+    <description xml:lang="sv">Installera dessa paket för att utveckla grafiska program för Qt och KDE.</description>
+    <description xml:lang="tr">Qt ve KDE grafiksel uygulamaları geliştirmek için bu paketleri kur.</description>
+    <description xml:lang="uk">Встановіть ці програми для розробки програм Qt та KDE.</description>
+    <description xml:lang="zh_CN">安装这些软件包以便于开发 Qt 和 KDE 图形化应用程序。</description>
+    <description xml:lang="zh_TW">安裝這些軟體包可開發 QT 與 KDE 圖形應用程式。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cmake</packagereq>
+      <packagereq type="mandatory">kdelibs-devel</packagereq>
+      <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="default">PyQt4-devel</packagereq>
+      <packagereq type="default">cervisia</packagereq>
+      <packagereq type="default">dolphin-plugins</packagereq>
+      <packagereq type="default">kapptemplate</packagereq>
+      <packagereq type="default">kate</packagereq>
+      <packagereq type="default">kcachegrind</packagereq>
+      <packagereq type="default">kde-dev-scripts</packagereq>
+      <packagereq type="default">kdelibs-webkit-devel</packagereq>
+      <packagereq type="default">kdepimlibs-devel</packagereq>
+      <packagereq type="default">kdesdk-kioslaves</packagereq>
+      <packagereq type="default">kdesdk-thumbnailers</packagereq>
+      <packagereq type="default">kdevelop</packagereq>
+      <packagereq type="default">kompare</packagereq>
+      <packagereq type="default">kpartloader</packagereq>
+      <packagereq type="default">kuiviewer</packagereq>
+      <packagereq type="default">okteta</packagereq>
+      <packagereq type="default">poxml</packagereq>
+      <packagereq type="default">pykde4-devel</packagereq>
+      <packagereq type="default">umbrello</packagereq>
+      <packagereq type="optional">audiocd-kio-devel</packagereq>
+      <packagereq type="optional">cantor-devel</packagereq>
+      <packagereq type="optional">gambas3-runtime</packagereq>
+      <packagereq type="optional">kdbg</packagereq>
+      <packagereq type="optional">kdelibs3-devel</packagereq>
+      <packagereq type="optional">kdesvn</packagereq>
+      <packagereq type="optional">kdewebdev-devel</packagereq>
+      <packagereq type="optional">kiten-devel</packagereq>
+      <packagereq type="optional">krazy2</packagereq>
+      <packagereq type="optional">ktp-common-internals-devel</packagereq>
+      <packagereq type="optional">libkcddb-devel</packagereq>
+      <packagereq type="optional">libkcompactdisc-devel</packagereq>
+      <packagereq type="optional">libkdeedu-devel</packagereq>
+      <packagereq type="optional">libkdegames-devel</packagereq>
+      <packagereq type="optional">marble-widget-devel</packagereq>
+      <packagereq type="optional">qt-creator</packagereq>
+      <packagereq type="optional">qt-mobility-devel</packagereq>
+      <packagereq type="optional">qt3-designer</packagereq>
+      <packagereq type="optional">qt3-devel</packagereq>
+      <packagereq type="optional">qtwebkit-devel</packagereq>
+      <packagereq type="optional">rocs-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kf5-software-development</id>
+    <name>KDE Frameworks 5 Software Development</name>
+    <name xml:lang="af">Sagtewareontwikkeling vir KDE Frameworks 5</name>
+    <name xml:lang="bg">KDE Frameworks 5 разработка на софтуер</name>
+    <name xml:lang="ca">Desenvolupament de programari KDE Frameworks 5</name>
+    <name xml:lang="cs">Softwarový vývoj KDE Frameworks 5</name>
+    <name xml:lang="da">KDE Frameworks 5-softwareudvikling</name>
+    <name xml:lang="de">KDE-Softwareentwicklung</name>
+    <name xml:lang="es">Desarrollo de software para KDE Frameworks 5</name>
+    <name xml:lang="fi">KDE Frameworks 5 -ohjelmistokehitys</name>
+    <name xml:lang="fr">Développement logiciel KDE Frameworks 5</name>
+    <name xml:lang="hu">KDE Frameworks 5 szoftverfejlesztés</name>
+    <name xml:lang="it">Strumenti di Sviluppo KDE Frameworks 5</name>
+    <name xml:lang="ko">KDE 프레임워크 5 소프트웨어 개발</name>
+    <name xml:lang="nb">Programvareutvikling for KDE-rammeverk 5</name>
+    <name xml:lang="nl">KDE Framework 5 softwareontwikkeling</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਫਰੇਮਵਰਕਸ 5 ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ</name>
+    <name xml:lang="pl">Tworzenie oprogramowania KDE Frameworks 5</name>
+    <name xml:lang="pt">Framework KDE 5 Desenvolvimento de Software</name>
+    <name xml:lang="pt_BR">Desenvolvimento de programas KDE Frameworks 5</name>
+    <name xml:lang="ru">Разработка программ с помощью KDE Frameworks 5</name>
+    <name xml:lang="sk">Softvérový vývoj KDE Frameworks 5</name>
+    <name xml:lang="sv">KDE Frameworks 5-programutveckling</name>
+    <name xml:lang="tr">KDE Frameworks 5 Yazılım Geliştirme</name>
+    <name xml:lang="uk">Засоби розробки для KDE Frameworks 5</name>
+    <name xml:lang="zh_CN">KDE Frameworks 5 软件开发</name>
+    <name xml:lang="zh_TW">KDE 框架 5 軟體開發</name>
+    <description>Install these packages to develop applications using Qt5 and KDE Frameworks 5.</description>
+    <description xml:lang="af">Installeer hierdie pakkette om grafiese toepassings met Qt5 en KDE Frameworks 5 te ontwikkel.</description>
+    <description xml:lang="bg">Инсталирайте тези пакети, за да можете да разработвате приложения, използващи Qt5 и KDE Frameworks 5.</description>
+    <description xml:lang="ca">Instal·leu aquests paquets per desenvolupar aplicacions gràfiques QT i KDE Frameworks 5.</description>
+    <description xml:lang="cs">Nainstalujte tyto balíčky, pokud budete vyvíjet aplikace využívající Qt5 a KDE Frameworks 5.</description>
+    <description xml:lang="da">Installér disse pakker for at udvikle grafiske Qt5- og KDE Frameworks 5-programmer.</description>
+    <description xml:lang="de">Installieren Sie diese Pakete, um grafische Anwendungen für Qt5 und KDE5 zu entwickeln.</description>
+    <description xml:lang="es">Instale estos paquetes para desarrollar aplicaciones gráficas con Qt5 y KDE Frameworks 5.</description>
+    <description xml:lang="fi">Asenna nämä paketit KDE Frameworks 5 -sovellusten kehittämiseksi.</description>
+    <description xml:lang="fr">Installez ces paquets pour développer les applications graphiques Qt5 et KDE Frameworks 5.</description>
+    <description xml:lang="hu">Telepítse ezeket a csomagokat Qt és KDE Frameworks 5 alkalmazások fejlesztéséhez.</description>
+    <description xml:lang="it">Installare questi pacchetti per sviluppare applicazioni che utilizzano Qt5 e KDE Frameworks 5.</description>
+    <description xml:lang="ko">QT와 KDE 프레임워크 5를 사용하여 응용프로그램을 개발하려면 이 꾸러미를 설치하세요.</description>
+    <description xml:lang="nb">Installer disse pakkene for utvikling av Qt5 og KDE-rammeverk 5.</description>
+    <description xml:lang="nl">Installeer deze pakketten om grafische toepassingen voor QT en KDE te ontwikkelen.</description>
+    <description xml:lang="pa">Qt5 ਅਤੇ KDE ਫਰੇਮਵਕਸ 5 ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਐਪਲੀਕੇਸ਼ਨ ਵਿਕਸਤ ਲਈ ਇਹ ਪੈਕੇਜਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ।</description>
+    <description xml:lang="pl">Należy zainstalować te pakiety, aby tworzyć graficzne aplikacje Qt5 i KDE Frameworks 5.</description>
+    <description xml:lang="pt">Instale estes pacotes se quiser desenvolver aplicações gráficas QT5 e Framework 5 do KDE.</description>
+    <description xml:lang="pt_BR">Instale estes pacotes para desenvolver aplicações gráficas utilizando Qt5 e o KDE Frameworks 5.</description>
+    <description xml:lang="ru">Установите эти пакеты для разработки приложений с помощью QT5 и KDE Frameworks 5.</description>
+    <description xml:lang="sk">Nainštalujte si tieto balíčky, ak budete vyvíjať grafické aplikácie Qt5 a KDE Frameworks 5.</description>
+    <description xml:lang="sv">Installera dessa paket för att utveckla program som använder Qt5 och KDE Frameworks 5.</description>
+    <description xml:lang="tr">Qt5 ve KDE5 kullanarak yazılım geliştirmek için bu paketleri kur.</description>
+    <description xml:lang="uk">Встановіть ці пакунки, якщо хочете розробляти програмне забезпечення на основі Qt5 та KDE Frameworks 5.</description>
+    <description xml:lang="zh_CN">安装这些软件包以便于开发 Qt5 和 KDE Frameworks 5。</description>
+    <description xml:lang="zh_TW">安裝這些軟體包可使用 Qt5 和 KDE 框架 5 來開發應用程式。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cmake</packagereq>
+      <packagereq type="mandatory">extra-cmake-modules</packagereq>
+      <packagereq type="default">qt5-qtdeclarative-devel</packagereq>
+      <packagereq type="default">qt5-qtquickcontrols</packagereq>
+      <packagereq type="default">qt5-qttools-devel</packagereq>
+      <packagereq type="default">qt5-qtwebkit-devel</packagereq>
+      <packagereq type="optional">qt-creator</packagereq>
+      <packagereq type="optional">qt5-qtconnectivity-devel</packagereq>
+      <packagereq type="optional">qt5-qtlocation-devel</packagereq>
+      <packagereq type="optional">qt5-qtmultimedia-devel</packagereq>
+      <packagereq type="optional">qt5-qtscript-devel</packagereq>
+      <packagereq type="optional">qt5-qtsensors-devel</packagereq>
+      <packagereq type="optional">qt5-qtserialport-devel</packagereq>
+      <packagereq type="optional">qt5-qtsvg-devel</packagereq>
+      <packagereq type="optional">qt5-qtwayland-devel</packagereq>
+      <packagereq type="optional">qt5-qtx11extras-devel</packagereq>
+      <packagereq type="optional">qt5-qtxmlpatterns-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>xfce-desktop</id>
+    <name>Xfce</name>
+    <name xml:lang="af">Xfce</name>
+    <name xml:lang="as">Xfce</name>
+    <name xml:lang="bg">Xfce</name>
+    <name xml:lang="bn">Xfce</name>
+    <name xml:lang="bn_IN">Xfce</name>
+    <name xml:lang="ca">Xfce</name>
+    <name xml:lang="cs">Prostředí Xfce</name>
+    <name xml:lang="da">Xfce</name>
+    <name xml:lang="de">Xfce</name>
+    <name xml:lang="el">Xfce</name>
+    <name xml:lang="en_GB">Xfce</name>
+    <name xml:lang="es">Xfce</name>
+    <name xml:lang="et">Xfce</name>
+    <name xml:lang="eu">Xfce</name>
+    <name xml:lang="fa">Xfce</name>
+    <name xml:lang="fi">Xfce</name>
+    <name xml:lang="fr">Xfce</name>
+    <name xml:lang="gu">Xfce</name>
+    <name xml:lang="he">Xfce</name>
+    <name xml:lang="hi">एक्सएफसीई</name>
+    <name xml:lang="hu">Xfce</name>
+    <name xml:lang="ia">Xfce</name>
+    <name xml:lang="id">Xfce</name>
+    <name xml:lang="it">Xfce</name>
+    <name xml:lang="ja">Xfce</name>
+    <name xml:lang="kn">Xfce</name>
+    <name xml:lang="ko">Xfce</name>
+    <name xml:lang="lv">Xfce</name>
+    <name xml:lang="mr">Xfce</name>
+    <name xml:lang="nb">Xfce</name>
+    <name xml:lang="nl">Xfce</name>
+    <name xml:lang="or">Xfce</name>
+    <name xml:lang="pa">Xfce</name>
+    <name xml:lang="pl">Xfce</name>
+    <name xml:lang="pt">Xfce</name>
+    <name xml:lang="pt_BR">Xfce</name>
+    <name xml:lang="ru">Xfce</name>
+    <name xml:lang="sk">Xfce</name>
+    <name xml:lang="sr">Xfce</name>
+    <name xml:lang="sv">Xfce</name>
+    <name xml:lang="ta">Xfce</name>
+    <name xml:lang="te">Xfce</name>
+    <name xml:lang="tg">Xfce</name>
+    <name xml:lang="tr">Xfce</name>
+    <name xml:lang="uk">Xfce</name>
+    <name xml:lang="zh_CN">Xfce</name>
+    <name xml:lang="zh_TW">Xfce</name>
+    <description>A lightweight desktop environment that works well on low end machines.</description>
+    <description xml:lang="af">’n Liggewig werkskermomgewing wat goed werk op stadige rekenaars.</description>
+    <description xml:lang="am">የቀላል ክብደት ያለው ሠሌዳ አካባኪ በዝቅተኛው ጫፍ የማሽን ክፍል የሚሰራ።</description>
+    <description xml:lang="ar">بيئة سطح مكتب خفيفة تعمل جيدا على الأجهزة القديمة.</description>
+    <description xml:lang="as">এটা লঘুভাৰৰ ডেষ্কট'প পৰিবেশ যি নিম্ন বিন্যাসৰ যন্ত্ৰত ভালকৈ কাম কৰি ।</description>
+    <description xml:lang="ast">Un entornu d'escritoriu llixeru que furrula bien en máquines pequeñes.</description>
+    <description xml:lang="bal">یک سبکین محیط دسکتاپ که په خوبی ته ماشینان کنٹین کار کنت.</description>
+    <description xml:lang="bg">Лека десктоп работна среда, която работи добре на слаби машини.</description>
+    <description xml:lang="bn">নিম্ন ক্ষমতাসম্পন্ন মেশিনে সহজে সঞ্চালনযোগ্য স্বল্পমাপের ডেস্কটপ পরিবেশ।</description>
+    <description xml:lang="bn_IN">নিম্ন ক্ষমতাসম্পন্ন মেশিনে সহজে সঞ্চালনযোগ্য স্বল্পমাপের ডেস্কটপ পরিবেশ।</description>
+    <description xml:lang="ca">Un entorn d'escriptori lleuger que funciona en ordinadors senzills.</description>
+    <description xml:lang="cs">Odlehčené uživatelské prostředí, které dobře funguje na pomalejších počítačích.</description>
+    <description xml:lang="da">Et letvægtsskrivebordsmiljø der virker godt på langsomme computere.</description>
+    <description xml:lang="de">Eine schlanke Desktop-Umgebung, die gut auf älteren Systemen funktioniert.</description>
+    <description xml:lang="el">Μια ελαφριά επιφάνεια εργασίας που αποδίδει πολύ καλά σε παλαιότερα μηχανήματα.</description>
+    <description xml:lang="en_GB">A lightweight desktop environment that works well on low end machines.</description>
+    <description xml:lang="es">Un entorno de escritorio liviano que funciona bien en máquinas pequeñas.</description>
+    <description xml:lang="et">Väikese ressursivajadusega töölauakeskkond, mis sobib väiksema võimsusega arvutitesse.</description>
+    <description xml:lang="fa">یک محیط رومیزی سبک‌وزن که روی دستگاه‌های ضعیف خوب کار می‌کند.</description>
+    <description xml:lang="fi">Kevyt työpöytäympäristö, joka toimii hyvin tehottomillakin koneilla.</description>
+    <description xml:lang="fr">Un environnement de bureau léger adapté aux machines peu puissantes.</description>
+    <description xml:lang="gu">હલકું ડેસ્કટોપ પર્યાવરણ કે જે નીચા મશીનો સાથે યોગ્ય રીતે કામ કરે.</description>
+    <description xml:lang="he">סביבה שולחנית קלה הפועלת היטב גם על מחשבים שאינם רבי עצמה.</description>
+    <description xml:lang="hi">हल्का डेस्कटॉप वातावरण जो कि न्यूनांत मशीन पर ठीक काम करता है.</description>
+    <description xml:lang="hr">Jednostavno okruženje radne površine koje dobro funkcionira na slabijim računalima.</description>
+    <description xml:lang="hu">Pehelysúlyú asztal környezet, ami gyengébb gépeken is jól használható.</description>
+    <description xml:lang="ia">Un ambiente de scriptorio legier que functiona ben sur machinas exigue.</description>
+    <description xml:lang="id">Lingkungan dekstop yang ringan yang dapat bekerja dengan baik pada mesin kinerja rendah.</description>
+    <description xml:lang="is">Létt skjáborðsumhverfi sem virkar vel á aflminni vélum.</description>
+    <description xml:lang="it">Un ambiente desktop performante anche per computer meno potenti.</description>
+    <description xml:lang="ja">低スペックなマシンでもサクサクと動作する軽量デスクトップ環境です。</description>
+    <description xml:lang="kn">ಕೆಳಮಟ್ಟದ ಗಣಕಗಳಲ್ಲಿಯೂ ಕೆಲಸ ಮಾಡಬಲ್ಲಂತಹ ಒಂದು ಹಗುರ ತೂಕದ ಗಣಕತೆರೆ ಪರಿಸರ.</description>
+    <description xml:lang="ko">저 사양 컴퓨터에서도 잘 작동하는 경량의 데스크탑 환경입니다.</description>
+    <description xml:lang="lv">Viegla darbvirsma, kas labi darbojas uz mazjaudīgiem datoriem.</description>
+    <description xml:lang="mai">हलुक डेस्कटाप वातावरण जे न्यूनांत मशीन पर नीक काज करैत अछि.</description>
+    <description xml:lang="mk">Едноставна работна околина што работи одлично на поспори машини.</description>
+    <description xml:lang="ml">ലോ എന്‍ഡ് മഷീനുകളില്‍ ശരിയായി പ്രവര്‍ത്തിക്കുന്ന ലൈറ്റ് വെയിറ്റ് ഡസ്ക്ടോപ്പ് എന്‍വയോണ്മെന്റ്.</description>
+    <description xml:lang="mr">एक हलके डेस्कटॉप वातावरण जे कमी रचनात्मक प्रणालींवर चांगल्या प्रकारे काम करते.</description>
+    <description xml:lang="ms">Persekitaran desktop ringan yang berfungsi dengan baik pada mesin berkuasa rendah.</description>
+    <description xml:lang="nb">Et lettvektig skrivebordsmiljø som fungerer bra på eldre og tregere maskiner.</description>
+    <description xml:lang="ne">चाँडो अन्त्य हुने मेसिनमा राम्रोसँग कार्य गर्ने हल्का डेस्कटप परिवेश ।</description>
+    <description xml:lang="nl">Een lichtgewicht bureaubladomgeving die zeer geschikt is voor minder krachtige machines.</description>
+    <description xml:lang="nso">Tikologo ya teseke e bohwefo yeo e šomago gabotse kudu metšheneng ya tlase.</description>
+    <description xml:lang="or">ଗୋଟିଏ ହାଲୁକା ଡେସ୍କଟପ ପରିବେଶ ଯାହାକି ନିମ୍ନ ଭାଗ ମେସିନ ମାନଙ୍କରେ ଉତ୍ତମ ରୂପେ କାର୍ଯ୍ଯ କରିଥାଏ।</description>
+    <description xml:lang="pa">ਇੱਕ ਹਲਕਾ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ, ਜੋ ਕਿ ਘੱਟ ਸੰਰਚਨਾ ਵਾਲੀਆਂ ਮਸ਼ੀਨਾਂ ਉੱਤੇ ਕੰਮ ਕਰਦਾ ਹੈ।</description>
+    <description xml:lang="pl">Lekkie środowisko graficzne, które dobrze działa na słabych komputerach.</description>
+    <description xml:lang="pt">Um ambiente de trabalho leve que funciona bem em máquinas com recursos modestos.</description>
+    <description xml:lang="pt_BR">Um ambiente de trabalho leve que funciona bem em máquinas de baixo custo.</description>
+    <description xml:lang="ro">Un mediu de lucru lejer care funcționează bine pe calculatoare mai slabe.</description>
+    <description xml:lang="ru">Облегчённая среда рабочего стола, подходящая для слабых машин.</description>
+    <description xml:lang="sk">Jednoduché pracovné prostredie, ktoré dobre pracuje na pomalších počítačoch.</description>
+    <description xml:lang="sl">Lahko namizje, ki deluje dobro tudi na skromnih računalnikih.</description>
+    <description xml:lang="sq">Mjedis dekstop i peshës së lehtë që punon bukur në makina të shkallës së fundit.</description>
+    <description xml:lang="sr">Лагано радно окружење које ради добро на слабијим машинама.</description>
+    <description xml:lang="sr@Latn">Lagano radno okruženje koje radi dobro na slabijim mašinama.</description>
+    <description xml:lang="sr@latin">Lagano radno okruženje koje radi dobro na slabijim mašinama.</description>
+    <description xml:lang="sv">En lättviktig skrivbordsmiljö som fungerar bra på långsammare maskiner.</description>
+    <description xml:lang="ta">ஒரு lightweight பணிமேடை சூழல் குறைந்த செயல்திறன் கொண்ட கணினிகளில் நன்றாக பணியாற்றுகிறது.</description>
+    <description xml:lang="te">తక్కువ బరువున్న డెస్కుటాప్ వాతావరణం అది తక్కువ సమాప్తిగల కంప్యూటర్లలో పనిచేస్తుంది.</description>
+    <description xml:lang="tg">Муҳити мизи корие, ки ҳам дар компютерҳои суст кор мекунад.</description>
+    <description xml:lang="th">สภาพแวดล้อมเดสก์ท็อปที่สามารถทำงานได้ดีบนเครื่องรุ่นเก่า</description>
+    <description xml:lang="tr">Alt sınıf makinelerde iyi çalışan bir hafif masaüstü ortamı.</description>
+    <description xml:lang="uk">Невибагливий до ресурсів робочий стіл, що добре працює на слабких машинах.</description>
+    <description xml:lang="zh_CN">一个能在低端机器上良好运行的轻便桌面环境。</description>
+    <description xml:lang="zh_TW">輕型的桌面環境，適用於低階電腦。</description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">Thunar</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">mousepad</packagereq>
+      <packagereq type="default">openssh-askpass</packagereq>
+      <packagereq type="default">thunar-archive-plugin</packagereq>
+      <packagereq type="default">thunar-volman</packagereq>
+      <packagereq type="default">tumbler</packagereq>
+      <packagereq type="default">xfce-polkit</packagereq>
+      <packagereq type="default">xfce4-appfinder</packagereq>
+      <packagereq type="default">xfce4-power-manager</packagereq>
+      <packagereq type="default">xfce4-pulseaudio-plugin</packagereq>
+      <packagereq type="default">xfce4-screensaver</packagereq>
+      <packagereq type="default">xfce4-terminal</packagereq>
+      <packagereq requires="pinentry" type="conditional">pinentry-gtk</packagereq>
+    </packagelist>
+  </group>
+  <category>
+    <id>kde-desktop-environment</id>
+    <name>KDE Desktop</name>
+    <name xml:lang="af">KDE-werkskerm</name>
+    <name xml:lang="as">KDE ডেস্কটপ</name>
+    <name xml:lang="bg">KDE Работен плот</name>
+    <name xml:lang="bn">KDE ডেস্কটপ</name>
+    <name xml:lang="bn_IN">KDE ডেস্কটপ</name>
+    <name xml:lang="ca">Escriptori KDE</name>
+    <name xml:lang="cs">KDE Desktop</name>
+    <name xml:lang="da">KDE-skrivebord</name>
+    <name xml:lang="de">KDE Desktop</name>
+    <name xml:lang="el">Επιφάνεια Εργασίας KDE </name>
+    <name xml:lang="en_GB">KDE Desktop</name>
+    <name xml:lang="es">Escritorio KDE</name>
+    <name xml:lang="et">KDE töölaud</name>
+    <name xml:lang="eu">KDE mahaigaina</name>
+    <name xml:lang="fa">دسکتاپ KDE</name>
+    <name xml:lang="fi">KDE-työpöytä</name>
+    <name xml:lang="fr">Environnement KDE</name>
+    <name xml:lang="gu">KDE ડેસ્કટોપ</name>
+    <name xml:lang="he">שולחן עבודה KDE</name>
+    <name xml:lang="hi">केडीई डेस्कटॉप</name>
+    <name xml:lang="hu">KDE asztali környezet</name>
+    <name xml:lang="ia">Scriptorio KDE</name>
+    <name xml:lang="id">Desktop KDE</name>
+    <name xml:lang="it">Desktop KDE</name>
+    <name xml:lang="ja">KDE デスクトップ</name>
+    <name xml:lang="kn">KDE ಗಣಕತೆರೆ</name>
+    <name xml:lang="ko">KDE 데스크탑</name>
+    <name xml:lang="lv">KDE darbvirsma</name>
+    <name xml:lang="mr">KDE डेस्कटॉप</name>
+    <name xml:lang="nb">KDE skrivebord</name>
+    <name xml:lang="nl">KDE bureaublad</name>
+    <name xml:lang="or">KDE ଡେସ୍କଟପ</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਡੈਸਕਟਾਪ</name>
+    <name xml:lang="pl">Środowisko KDE</name>
+    <name xml:lang="pt">Ambiente de Trabalho KDE</name>
+    <name xml:lang="pt_BR">KDE Desktop.</name>
+    <name xml:lang="ru">Рабочая среда KDE</name>
+    <name xml:lang="sk">Pracovné prostredie KDE</name>
+    <name xml:lang="sr">KDE окружење</name>
+    <name xml:lang="sv">KDE-skrivbord</name>
+    <name xml:lang="ta">KDE பணிமேடை</name>
+    <name xml:lang="te">KDE రంగస్థలం</name>
+    <name xml:lang="tg">Мизи кории KDE</name>
+    <name xml:lang="tr">KDE Masaüstü</name>
+    <name xml:lang="uk">Стільниця KDE</name>
+    <name xml:lang="zh_CN">KDE 桌面环境</name>
+    <name xml:lang="zh_TW">KDE 桌面</name>
+    <description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="ar">الـ KDE SC يتضمن سطح مكتب KDE البلازما, والذي هو على درجة عالية من تخصيص واجهة المستخدم الرسومية والتي تحتوي على لوحة ،سطح المكتب ، ونظام الرموز وكائنات سطح المكتب، والعديد من تطبيقات KDE القوية.</description>
+    <description xml:lang="as">KDE SC -এ KDE প্লাস্মা ডেস্কটপ অন্তৰ্ভুক্ত কৰে, এটা উচ্চ সংৰূপীত গ্ৰাফীয় ব্যৱহাৰকাৰী আন্ডঃপৃষ্ট যোনে অন্তৰ্ভুক্ত কৰে এটা পেনেল, ডেস্কটপ, চিস্টেম আইকনসমূহ আৰু ডেস্কটপ উইজেটসমূহ , আৰু বহুতো শক্তিশালী KDE অনুপ্ৰয়োগসমূহ।</description>
+    <description xml:lang="ast">La Compilación de Software KDE inclúi l'Escritoriu Plasma KDE, una interface gráfica d'usuariu altamente configurable que cuenta con panel, escritoriu, iconos de sistema y widgets d'escritoriu, y abondes aplicaciones KDE poderoses.</description>
+    <description xml:lang="bg">KDE SC включва KDE Plasma Desktop, високо конфигурируем графичен потребителски интерфейс, включващ панел, работна среда, системни икони и инструменти, всякакви много мощни KDE приложения.</description>
+    <description xml:lang="bn">KDE SC-র মধ্যে রয়েছে KDE Plasma ডেস্কটপ। অতিমাত্রায় কনফিগার করার যোগ্য এই ইউজার ইন্টারফেসের মধ্যে রয়েছে একটি প্যানেল, ডেস্কটপ, সিস্টেমের বিভিন্ন আইকন ও ডেস্কটপ উইজেট ও বিভিন্ন উন্নত ক্ষমতাবিশিষ্ট KDE-র অন্যান্য অনেকগুলি অ্যাপ্লিকেশন।</description>
+    <description xml:lang="bn_IN">KDE SC-র মধ্যে রয়েছে KDE Plasma ডেস্কটপ। অতিমাত্রায় কনফিগার করার যোগ্য এই ইউজার ইন্টারফেসের মধ্যে রয়েছে একটি প্যানেল, ডেস্কটপ, সিস্টেমের বিভিন্ন আইকন ও ডেস্কটপ উইজেট ও বিভিন্ন উন্নত ক্ষমতাবিশিষ্ট KDE-র অন্যান্য অনেকগুলি অ্যাপ্লিকেশন।</description>
+    <description xml:lang="ca">KDE SC inclou l'escriptori Plasma, una interfície gràfica d'usuari molt configurable que inclou un tauler, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE.</description>
+    <description xml:lang="cs">KDE SC obsahuje KDE Plasma Desktop, široce konfigurovatelné grafické uživatelské rozhraní, které obsahuje panel, pracovní plochu, systémové ikony, desktopové widgety a mnoho užitečných a výkonných KDE aplikací.</description>
+    <description xml:lang="da">KDE-softwarekompilationen inkluderer KDE-plasma-skrivebordet, en meget konfigurerbar grafisk brugergrænseflade som inkluderer et panel, et skrivebord, systemikoner og skrivebordswidgets og mange kraftfulde KDE-programmer.</description>
+    <description xml:lang="de">Die KDE Softwarezusammenstellung beinhaltet den KDE Plasma-Desktop, eine hoch-konfigurierbare grafische Benutzeroberfläche mit Menüleiste, Schreibtisch, Systemsymbolen, Widgets und vielen ausgefeilten KDE-Anwendungen.</description>
+    <description xml:lang="el">Το KDE είναι ένα ισχυρό, γραφικό περιβάλλον που περιέχει, μεταξύ άλλων, πίνακα εφαρμογών, επιφάνεια εργασίας, εικονίδια συστήματος και γραφικό διαχειριστή αρχείων.</description>
+    <description xml:lang="en_GB">The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="es">La Compilación de Software KDE incluye el Escritorio Plasma KDE, una interfaz gráfica de usuario altamente configurable que cuenta con panel, escritorio, iconos de sistema y widgets de escritorio, y muchas aplicaciones KDE poderosas.</description>
+    <description xml:lang="et">KDE SC ehk tarkvarakogu sisaldab Plasma töölauda, igati seadistatavat graafilist kasutajaliides, sealhulgas paneeli, töölauda, süsteemi ikoone ja töölauavidinaid, ning suure hulga võimsaid rakendusi.</description>
+    <description xml:lang="fa">‏گردآوری نرم‌افزاری KDE شامل میزکار پلاسمای KDE، یک رابط کاربری گرافیکی به شدت قابل پیکره‌بندی که شامل تابلو، میزکار، شمایل سیستم و ویدجت‌های میزکار و تعداد زیادی برنامه قدرتمند KDE است.</description>
+    <description xml:lang="fi">KDE sisältää KDE Plasma -työpöydän, johon kuuluu paneeli, työpöytä, järjestelmäkuvakkeet ja graafinen tiedostohallinta sekä useita KDE-ohjelmia.</description>
+    <description xml:lang="fr">La compilation de logiciels KDE contient le bureau Plasma KDE, une interface graphique utilisateur hautement configurable qui contient un tableau de bord, un bureau, des icônes système, des widgets de bureau ainsi que de nombreuses applications KDE.</description>
+    <description xml:lang="gu">KDE SC એ KDE પ્લાઝ્મા ડેસ્કટોપ, ટોચનું રૂપરેખાંકિત ગ્રાફિકલ વપરાશકર્તા ઇન્ટરફેસ ને સમાવે છે કે જે  પેનલ, ડેસ્કટોપ, સિસ્ટમ ચિહ્નો, અને ડેસ્કટોપ વિજેટ, અને ઘણીબધી શક્તિશાળી KDE કાર્યક્રમોને સમાવે છે.</description>
+    <description xml:lang="he">סביבת KDE מספקת את שולחן העבודה KDE Plasma, מנשק משתמש הניתן להתאמה אישית ברמות גבוהות הכולל: לוח, שולחן עבודה, סמלי מערכת, ווידג׳טים לשולחן העבודה והרבה יישומי KDE רבי עצמה.</description>
+    <description xml:lang="hi">केडीई एससी में केडीई प्लाजमा डेस्कटॉप, एक उच्च विन्यासयोग्य आलेखी उपयोक्ता अंतरफलक जिसमें एक पैनल, डेस्कटॉप, तंत्र प्रतीक, और डेस्कटॉप विजेट और कई शक्तिशाली केडीई अनुप्रयोग शामिल हैं.</description>
+    <description xml:lang="hu">A KDE szoftvergyűjtemény tartalmazza a KDE Plasma asztali környezetet, egy részletesen konfigurálható grafikus felhasználói felületet, melynek része a panel, az asztal, a rendszerikonok, az asztali kisalkalmazások és sok más hatékony KDE alkalmazás.</description>
+    <description xml:lang="ia">Le compilation de software KDE include le scriptorio Plasma, un interfacie graphic de usator altemente configurabile que comprende un pannello, un scriptorio, icones de systema, widgets de scriptorio e numerose applicationes KDE.</description>
+    <description xml:lang="id">KDE SC meliputi Plasma Desktop KDE, sebuah grafis antarmuka pengguna yang sangat dapat dikonfigurasi yang mencakup panel, dekstop, ikon sistem dan widget desktop, dan banyak aplikasi bertenaga KDE.</description>
+    <description xml:lang="is">KDE SC innifelur KDE PLasma skjáborðið, ákaflega sveigjanlegt myndrænt vinnuumhverfi sem inniheldur forritaspjöld, skjáborð, kerfissmámyndir og skjáborðsgræjur, auk margra öflugra KDE forrita.</description>
+    <description xml:lang="it">KDE SC include il desktop Plasma KDE, una interfaccia grafica utente altamente configurabile la quale include un pannello desktop, icone di sistema, widget desktop e numerose applicazioni KDE molto potenti.</description>
+    <description xml:lang="ja">KDE SC には、パネル、デスクトップ、システムアイコン、ウィジェット、及び多くの強力な KDE アプリケーションを持つ高度に設定可能なグラフィカル ユーザーインターフェイスである KDE Plasma デスクトップが含まれています。</description>
+    <description xml:lang="kn">KDE ಯು ಒಂದು ಉತ್ತಮವಾಗಿ ಸಂರಚಿಸಬಹುದಾದ ಚಿತ್ರಾತ್ಮಕ ಬಳಕೆದಾರ ಸಂಪರ್ಕಸಾಧನವಾದಂತಹ KDE Plasma Desktop ಅನ್ನು ಹೊಂದಿದ್ದು, ಇದು ಕಾರ್ಯಪಟ್ಟಿಕೆ, ಗಣಕತೆರೆ, ವ್ಯವಸ್ಥೆಯ ಚಿಹ್ನೆಗಳು ಹಾಗೂ ಗಣಕತೆರೆ ವಿಡ್ಗೆಟ್‌ಗಳು, ಹಾಗು ಇನ್ನಿತರೆ ಶಕ್ತಿಯುತ KDE ಅನ್ವಯಗಳನ್ನೊಳಗೊಂಡಿದೆ.</description>
+    <description xml:lang="ko">KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 응용프로그램이 포함된 고도로 설정 가능한 그래픽 사용자 연결장치인 KDE Plasma 데스크탑이 포함되어 있습니다.</description>
+    <description xml:lang="lv">KDE SC iekļauj KDE Plasma darbvirsmu — grafiskā lietotāja saskarne ar plašam konfigurācijas iespējām, kas iekļauj paneļus, darbvirsmu, sistēmas piktogrammas un darbvirsmas sīkrīkus, kā arī daudzas jaudīgas KDE lietotnes.</description>
+    <description xml:lang="mr">KDE SC मध्ये KDE पाल्जमा डेस्कटॉप समाविष्टीत आहे, एक अत्यंत-संरचनाजोगी ग्राफिकल वापरकर्ता संवाद ज्यामध्ये पटल, डेस्कटॉप, प्रणाली चिन्हे व डेस्कटॉप विजेट्स्, व जास्त प्रबळ KDE ॲप्लिकेशन्स् समाविष्टीत आहे.</description>
+    <description xml:lang="nb">KDE SC inkluderer KDE Plasma-skrivebordet, et tilpasningsvennlig brukergrensesnitt som har et panel, skrivebord, systemikoner og skrivebordsminiprogrammer, og mange kraftige KDE-programmer.</description>
+    <description xml:lang="nl">De KDE SC bevat het KDE Plasma bureaublad, uit uitgebreide instelbare grafische gebruikers interface met een paneel, bureaublad, systeem iconen en bureaublad widgets, en vele krachtige KDE toepassingen.</description>
+    <description xml:lang="or">KDE SC ରେ KDE ପ୍ଲାଜମା ଡେସ୍କଟପ ଅନ୍ତର୍ଭୁକ୍ତ, ଯାହାକି ଗୋଟିଏ ଶକ୍ତିଶାଳୀ ଆଲେଖୀକ ଚାଳକ ଅନ୍ତରାପୃଷ୍ଠ ଅଟେ ଯାହାକି ଗୋଟିଏ ପ୍ଯାନେଲ, ଡେସ୍କଟପ, ତନ୍ତ୍ର ଚିତ୍ରସଙ୍କେତ, ଡେସ୍କଟପ ୱିଜେଟ ଏବଂ ଗୋଟିଏ ଶକ୍ତିଶାଳୀ KDE ପ୍ରୟୋଗଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ।</description>
+    <description xml:lang="pa">ਕੇਡੀਈ ਐਸਸੀ ਵਿੱਚ ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਡੈਸਕਟਾਪ, ਉੱਚ-ਸੰਰਚਨਾ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਸ਼ਾਮਿਲ ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈੱਟ ਤੇ ਕੋਈ ਹੋਰ ਮਜ਼ਬੂਤ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ਾਮਿਲ ਹਨ।</description>
+    <description xml:lang="pl">KDE SC zawiera środowisko Plasma, wysoce konfigurowalny graficzny interfejs użytkownika zawierający panel, pulpit, ikony systemowe, widżety pulpitu i wiele aplikacji KDE o dużych możliwościach.</description>
+    <description xml:lang="pt">O KDE SC inclui o ambiente KDE Plasma, um interface gráfico de utilizador altamente configurável que inclui um painel, um área de trabalho, ícones do sistema e widgets, e muitas poderosas aplicações do KDE.</description>
+    <description xml:lang="pt_BR">O KDE SC inclui o KDE Plasma Desktop, uma interface gráfica de usuário altamente configurável que inclui um painel, uma área de trabalho, ícones de sistema, widgets para a área de trabalho e muitos aplicativos poderosos do KDE.</description>
+    <description xml:lang="sk">KDE SC obsahuje KDE Plasma Desktop, vysoko konfigurovateľné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a widgety plochy a množstvo užitočných a výkonných KDE aplikácií.</description>
+    <description xml:lang="sr">Збирка KDE софтвера укључује KDE Плазма радно окружење, веома подесиво графичко корисничко окружење које садржи панел, радну површину, системске иконе и десктоп виџете, и многе моћне KDE програме.</description>
+    <description xml:lang="sr@Latn">Zbirka KDE softvera uključuje KDE Plazma radno okruženje, veoma podesivo grafičko korisničko okruženje koje sadrži panel, radnu površinu, sistemske ikone i desktop vidžete, i mnoge moćne KDE programe.</description>
+    <description xml:lang="sr@latin">Zbirka KDE softvera uključuje KDE Plazma radno okruženje, veoma podesivo grafičko korisničko okruženje koje sadrži panel, radnu površinu, sistemske ikone i desktop vidžete, i mnoge moćne KDE programe.</description>
+    <description xml:lang="sv">KDE SC innehåller skrivbordet KDE Plasma, ett mycket konfigurerbart grafiskt användargränssnitt som innehåller en panel, ett skrivbord, systemikoner och skrivbordsprogram, och många kraftfulla KDE-program.</description>
+    <description xml:lang="ta">KDE SC  என்பது ஒரு பலகம், பணிமேடை, கணினி சின்னங்கள் மற்றும் ஒரு வரைகலை கோப்பு மேலாளர் ஆகியவற்றை கொண்ட ஒரு வலிமையான வரைகலை, பணிமேடை, கணினி சின்னங்கள் மற்றும் பணிமேடை விட்ஜெட்டுகள், மற்றும் பல வலிமைமிக்க KDE பயன்பாடுகளை கொண்டது.</description>
+    <description xml:lang="te">KDE SC అనునది KDE ప్లాజ్మా డెస్కుటాప్‌ను, ప్యానల్, డెస్కుటాప్, సిస్టమ్ ప్రతిమలు మరియు డెస్కుటాప్ విడ్జట్లు కలిగివున్న అధికంగా-ఆకృతీకరించగల గ్రాఫికల్ యూజర్ యింటర్ఫేస్, మరియు చాలా ప్రభావవంతమైన KDE అనువర్తనములను కలిగివుంది.</description>
+    <description xml:lang="tg">KDE SC ба таркиби худ мизи кории KDE Plasma - интерфейси графикии ҷуршаванда, ки лавҳаи замимаҳоро пешкаш мекунад, мизи корӣ, нишонаҳои системавӣ, виджетҳои мизи корӣ ва дигар замимаҳои пурқуввати KDE дар бар мегирад.</description>
+    <description xml:lang="tr">KDE SC; panel, masaüstü, sistem simgeleri, masaüstü araç gereçleri ve birçok güçlü KDE uygulaması içeren yüksek derecede yapılandırılabilir bir grafiksel kullanıcı arayüzü olan KDE Plasma Masaüstü'nü içerir.</description>
+    <description xml:lang="uk">До складу KDE SC входять робочий стіл KDE Plasma - графічний інтерфейс, що налаштовується та надає панель програм, робочий стіл, системні значки, віджети робочого столу та інші потужні програми KDE.</description>
+    <description xml:lang="zh_CN">KDE SC 包括 KDE Plasma 桌面（一个高度可配置的图形化用户界面，包括面板、桌面、系统图标和桌面部件）和很多强大的 KDE 应用程序。</description>
+    <description xml:lang="zh_TW">KDE SC 所包含的 KDE Plasma 桌面是個功能強大的圖形使用者介面，它含有面板、桌面、系統圖示與桌面元件，以及許多強大的 KDE 應用軟體。</description>
+    <display_order>10</display_order>
+    <grouplist>
+      <groupid>kde-apps</groupid>
+      <groupid>kde-desktop</groupid>
+      <groupid>kde-education</groupid>
+      <groupid>kde-media</groupid>
+      <groupid>kde-office</groupid>
+    </grouplist>
+  </category>
+  <environment>
+    <id>kde-desktop-environment</id>
+    <name>KDE Plasma Workspaces</name>
+    <name xml:lang="bg">KDE Plasma Workspaces</name>
+    <name xml:lang="ca">KDE Plasma Workspaces</name>
+    <name xml:lang="cs">Pracovní plochy KDE Plasma</name>
+    <name xml:lang="da">KDE Plasma-arbejdsområder</name>
+    <name xml:lang="de">KDE Plasma-Arbeitsumgebung</name>
+    <name xml:lang="en_GB">KDE Plasma Workspaces</name>
+    <name xml:lang="es">Espacios de trabajo KDE Plasma</name>
+    <name xml:lang="fi">KDE Plasma -työtilat</name>
+    <name xml:lang="fr">KDE Plasma Workspaces</name>
+    <name xml:lang="hu">KDE Plasma Workspaces</name>
+    <name xml:lang="ia">Spatios de travalio KDE Plasma</name>
+    <name xml:lang="id">Ruang Kerja Plasma KDE</name>
+    <name xml:lang="it">Spazi di lavoro Plasma per KDE</name>
+    <name xml:lang="ja">KDE Plasma デスクトップワークスペース</name>
+    <name xml:lang="ko">KDE 플래즈마 웍스페이스</name>
+    <name xml:lang="nb">KDE Plasma arbeidsområder</name>
+    <name xml:lang="nl">KDE Plasma werkruimtes</name>
+    <name xml:lang="pa">ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ</name>
+    <name xml:lang="pl">Środowisko KDE Plasma</name>
+    <name xml:lang="pt">Espaços de Trabalho Plasma do KDE</name>
+    <name xml:lang="pt_BR">Ambiente de trabalho KDE Plasma</name>
+    <name xml:lang="ru">KDE Plasma Workspaces</name>
+    <name xml:lang="sk">Pracovná plocha KDE Plasma</name>
+    <name xml:lang="sr">KDE Plasma Workspaces</name>
+    <name xml:lang="sv">KDE Plasma arbetsytor</name>
+    <name xml:lang="te">KDE ప్లాస్మా పని ప్రదేశాలు</name>
+    <name xml:lang="tr">KDE Plasma Çalışma Alanları</name>
+    <name xml:lang="uk">Робоче середовище Плазми KDE</name>
+    <name xml:lang="zh_CN">KDE Plasma 工作区</name>
+    <name xml:lang="zh_TW">KDE Plasma 工作空間</name>
+    <description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="bg">The KDE Plasma Workspaces, графичен потребителски интерфейс с големи възможности за конфигуриране, включващ панел, работна среда, системни икони и инструменти, и всякакви, много мощни KDE приложения.</description>
+    <description xml:lang="ca">KDE Plasma Workspaces, una interfície gràfica d'usuari molt configurable que inclou un tauler, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE.</description>
+    <description xml:lang="cs">Pracovní plochy KDE Plasma je vysoce-konfigurovatelné grafické uživatelské rozhraní zahrnující panely, pracovni plochu, systémové ikony, widgety a mnoho vykonných KDE aplikací.</description>
+    <description xml:lang="da">KDE Plasma-arbejdsområder, en grafisk brugerflade som kan konfigureres meget og som inkluderer et panel, skrivebord, systemikoner, skrivebordswidgets og mange kraftfulde KDE-programmer.</description>
+    <description xml:lang="de">Die KDE Plasma-Arbeitsumgebung ist eine hoch-konfigurierbare grafische Benutzeroberfläche mit Menüleiste, Schreibtisch, Systemsymbolen, Widgets und vielen ausgefeilten KDE-Anwendungen.</description>
+    <description xml:lang="en_GB">The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</description>
+    <description xml:lang="es">Los espacios de trabajo KDE plasma tienen una interfaz totalmente configurable, que incluye un panel, un escritorio, sistema de iconos y widgets y muchas aplicaciones de KDE.</description>
+    <description xml:lang="fi">KDE Plasma Workspaces, muokattava graafinen käyttöliittymä, johon kuuluu paneeli, työpöytä, järjestelmäkuvakkeet ja graafinen tiedostohallinta sekä useita KDE-ohjelmia.</description>
+    <description xml:lang="fr">L’interface graphique utilisateur hautement configurable KDE Plasma, qui contient un tableau de bord, un bureau, des icônes systèmes, des widgets de bureau ainsi que de nombreuses applications KDE.</description>
+    <description xml:lang="fur">I spazis di lavôr Plasma KDE, une interface utent grafiche une vore configurabile che e inclût un panel, scritori, iconis di sisteme e widget di scritori e tantis potentis aplicazions KDE.</description>
+    <description xml:lang="hu">A KDE Plasma Workspaces egy részletesen konfigurálható grafikus felhasználói felületet, melynek része a panel, az asztal, a rendszerikonok, az asztali kisalkalmazások és sok más hatékony KDE alkalmazás.</description>
+    <description xml:lang="ia">Le spatios de travalio KDE Plasma es un interfacie graphic de usator multo configurabile que comprende un pannello, un scriptorio, icones de systema, widgets de scriptorio e numerose applicationes KDE.</description>
+    <description xml:lang="it">Spazi di lavoro Plasma per KDE, una interfaccia grafica molto configurabile che include un pannello, scrivania, icone di sistema e applicazioni su scrivania, e molte potenti applicazioni KDE</description>
+    <description xml:lang="ja">KDE Plasma ワークスペースはパネル、デスクトップ、システムアイコン、デスクトップウィジェット、および多くの強力なKDEアプリケーションを搭載するグラフィカルユーザーインターフェースです。</description>
+    <description xml:lang="ko">KDE 플레즈마 작업공간, 패널, 데스크탑, 시스템 아이콘과 데스크탑 위젯, 그리고 많은 강력한 KDE 응용프로그램을 포함하는 것과 같이 고도로-설정 할 수 있는 그래픽 사용자 연결장치.</description>
+    <description xml:lang="nl">De KDE Plasma-werkruimtes is een heel configureerbare grafische gebruikersinterface met paneel, bureaublad, systeemiconen en bureaubladwidgets, met daarnaast vele krachtige KDE-toepassingen.</description>
+    <description xml:lang="pa">ਕੇਡੀਈ (KDE) ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ, ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੰਰਚਨਾ ਕਰਨ ਯੋਗ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈਟ ਹਨ, ਕਈ ਮਜ਼ਬੂਤ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸਮੇਤ।</description>
+    <description xml:lang="pl">KDE Plasma, wysoce konfigurowalny graficzny interfejs użytkownika zawierający panel, pulpit, ikony systemowe, widżety pulpitu i wiele aplikacji KDE o dużych możliwościach.</description>
+    <description xml:lang="pt">O Plasma KDE Workspaces, um interface gráfico altamente configurável que inclui um painel, desktop, ícones do sistema e widgets de desktop, e muitos aplicativos do KDE poderosos.</description>
+    <description xml:lang="pt_BR">O ambiente de trabalho KDE Plasma, uma interface gráfica de usuário altamente configurável que inclui um painel, uma área de trabalho, ícones de sistema, widgets para a área de trabalho e muitos aplicativos poderosos do KDE.</description>
+    <description xml:lang="ru">KDE Plasma Workspaces - легко настраиваемый графический интерфейс пользователя, который содержит панель, рабочий стол, системные значки и виджеты рабочего стола, а также множество эффективных приложений KDE.</description>
+    <description xml:lang="sk">Pracovná plocha KDE Plasma , vysoko konfigurovateľné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a widgety plochy a množstvo užitočných a výkonných KDE aplikácií.</description>
+    <description xml:lang="sr">KDE Plasma Workspaces, веома подесиво графичко окружење које укључује панел, позадину, системске иконице, виџете за позадину и много моћних KDE програма.</description>
+    <description xml:lang="sv">KDE Plasma arbetsytor, ett mycket konfigurerbart grafiskt användargränssnitt som inkluderar en panel, skrivbord, systemikoner och skrivbordsprogram och många kraftfulla KDE-program.</description>
+    <description xml:lang="te">KDE ప్లాస్మా పని ప్రదేశాలు, ఒక ప్యానెల్, డెస్క్టాప్, వ్యవస్థ గుర్తులు మరియు డెస్క్టాప్ విడ్జెట్, మరియు అనేక శక్తివంతమైన KDE అప్లికేషన్లు కలిగి అత్యంత నిర్వహించగల గ్రాఫికల్ యూజర్ ఇంటర్ఫేస్.</description>
+    <description xml:lang="tr">KDE Plasma Çalışma Alanları; panel, masaüstü, sistem simgeleri, masaüstü araç gereçleri ve birçok güçlü KDE uygulaması içeren yüksek derecede yapılandırılabilir bir grafiksel kullanıcı arayüzüdür.</description>
+    <description xml:lang="uk">Робочий простір Плазми KDE складається з дуже гнучкого у налаштовуванні графічного інтерфейсу, що складається з панелі, стільниці, системних піктограм та віджетів стільниці, та багатьох потужних програм KDE.</description>
+    <description xml:lang="zh_CN">KDE Plasma 是一个可灵活配置的图形用户界面，包括面板，桌面，系统图标和桌面小部件，以及许多功能强大的 KDE 应用程序。</description>
+    <description xml:lang="zh_TW">KDE Plasma 工作空間，是設定可高度調整的圖形化使用介面，包含面板、桌面、系統圖示、桌面小工具、許多強大的 KDE 應用程式等。</description>
+    <display_order>10</display_order>
+    <grouplist>
+      <groupid>kde-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>firefox</groupid>
+      <groupid>kde-apps</groupid>
+      <groupid>kde-education</groupid>
+      <groupid>kde-media</groupid>
+      <groupid>kde-office</groupid>
+    </optionlist>
+  </environment>
+</comps>
