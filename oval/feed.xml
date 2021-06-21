@@ -6,9 +6,9 @@
   <entry>
     <id>oval:/RHEL8/rhel-8-including-unpatched.oval.xml.bz2</id>
     <title>OVAL Definitions</title>
-    <link href="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8-including-unpatched.oval.xml.bz2" length="986734"></link>
-    <published>2021-04-15T12:59:49Z</published>
-    <updated>2021-04-15T12:58:23Z</updated>
+    <link href="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8-including-unpatched.oval.xml.bz2" length="1086299"></link>
+    <published>2021-06-21T14:25:55Z</published>
+    <updated>2021-06-21T14:23:51Z</updated>
     <content type="application/xml+x-bzip2" src="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8-including-unpatched.oval.xml.bz2"></content>
     <format xmlns="urn:ietf:params:xml:ns:rolie-1.0" ns="http://oval.mitre.org/XMLSchema/oval-definitions-5" version="5.10"></format>
   </entry>
