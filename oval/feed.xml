@@ -12,4 +12,12 @@
     <content type="application/xml+x-bzip2" src="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8-including-unpatched.oval.xml.bz2"></content>
     <format xmlns="urn:ietf:params:xml:ns:rolie-1.0" ns="http://oval.mitre.org/XMLSchema/oval-definitions-5" version="5.10"></format>
   </entry>
+  <entry>
+    <id>oval:/RHEL8/rhel-8.4-eus.oval.xml.bz2</id>
+    <title>OVAL Definitions</title>
+    <link href="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.4-eus.oval.xml.bz2" length="517621"/>
+    <updated>2022-01-16T05:39:28Z</updated>
+    <content type="application/x-bzip2" src="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.4-eus.oval.xml.bz2"/>
+    <format ns="https://oval.mitre.org/language/version5.10/index.html" version="5.10"/>
+  </entry>
 </feed>
