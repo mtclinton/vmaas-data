@@ -42,6 +42,25 @@
           "schema": "https://oval.mitre.org/language/version5.10/index.html",
           "version": "5.10"
         }
+      },
+      {
+        "id": "oval:/RHEL8/rhel-8.1-eus.oval.xml.bz2",
+        "title": "OVAL Definitions",
+        "link": [
+          {
+            "href": "https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.1-eus.oval.xml.bz2",
+            "length": 247959
+          }
+        ],
+        "updated": "2022-01-16T05:39:28Z",
+        "content": {
+          "type": "application/x-bzip2",
+          "src": "https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8//rhel-8.1-eus.oval.xml.bz2"
+        },
+        "format": {
+          "schema": "https://oval.mitre.org/language/version5.10/index.html",
+          "version": "5.10"
+        }
       }
     ]
   }

@@ -20,4 +20,12 @@
     <content type="application/x-bzip2" src="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.4-eus.oval.xml.bz2"/>
     <format ns="https://oval.mitre.org/language/version5.10/index.html" version="5.10"/>
   </entry>
+  <entry>
+    <id>oval:/RHEL8/rhel-8.1-eus.oval.xml.bz2</id>
+    <title>OVAL Definitions</title>
+    <link href="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.1-eus.oval.xml.bz2" length="247959"/>
+    <updated>2022-01-16T05:39:28Z</updated>
+    <content type="application/x-bzip2" src="https://raw.githubusercontent.com/psegedy/vmaas-data/master/oval/RHEL8/rhel-8.1-eus.oval.xml.bz2"/>
+    <format ns="https://oval.mitre.org/language/version5.10/index.html" version="5.10"/>
+  </entry>
 </feed>
